@@ -1,0 +1,2035 @@
+87618 ('F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced')
+[0.7019650655021834, 0.2623762376237624, 0.04176516942474389]
+87627 ('F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'UP')
+[0.7024017467248909, 0.26732673267326734, 0.0425531914893617]
+87633 ('F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'maxdurunvoiced')
+[0.7008733624454149, 0.2672811059907834, 0.045705279747832936]
+87676 ('F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'maxdurunvoiced', 'UP')
+[0.7004366812227074, 0.2669683257918552, 0.046493301812450746]
+87704 ('F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'VP')
+87741 ('F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7034934497816594, 0.3153526970954357, 0.05988967691095351]
+87744 ('F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7006550218340611, 0.2838983050847458, 0.05279747832939322]
+87762 ('F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced')
+[0.7008733624454149, 0.26066350710900477, 0.04334121355397951]
+87777 ('F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'maxdurunvoiced')
+87840 ('F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgdurunvoiced')
+[0.7006550218340611, 0.2926829268292683, 0.05673758865248227]
+87841 ('F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'maxdurunvoiced')
+[0.7017467248908297, 0.29004329004329005, 0.05279747832939322]
+87871 ('F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7006550218340611, 0.2801724137931034, 0.0512214342001576]
+87874 ('F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'maxdurunvoiced', 'VP')
+[0.7004366812227074, 0.27896995708154504, 0.0512214342001576]
+87882 ('F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced')
+[0.7002183406113537, 0.2815126050420168, 0.05279747832939322]
+87883 ('F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced')
+[0.7002183406113537, 0.296875, 0.05988967691095351]
+87884 ('F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7019650655021834, 0.28761061946902655, 0.0512214342001576]87887
+87890 ('F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'UP')
+[0.7024017467248909, 0.27403846153846156, 0.04491725768321513]
+87898 ('F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'UP')
+[0.7004366812227074, 0.2626728110599078, 0.04491725768321513]
+87901 ('F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced')
+[0.701528384279476, 0.2688679245283019, 0.04491725768321513]
+87905 ('F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'UP')
+[0.7010917030567686, 0.23958333333333334, 0.036249014972419225]
+88016 ('F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7056768558951965, 0.319634703196347, 0.055161544523246654]
+88020 ('F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7006550218340611, 0.26605504587155965, 0.045705279747832936]
+88145 ('F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'UP')
+[0.7013100436681222, 0.2838427947598253, 0.0512214342001576]
+88209 ('F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'UP')
+[0.7006550218340611, 0.24242424242424243, 0.037825059101654845]
+88306 ('F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7008733624454149, 0.28870292887029286, 0.054373522458628844]
+88925 ('F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'UP')
+[0.7013100436681222, 0.27601809954751133, 0.04806934594168637]
+89027 ('F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7006550218340611, 0.2801724137931034, 0.0512214342001576]
+89085 ('F0skew', 'F0kurt', 'F0tiltmax', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'maxdurunvoiced')
+[0.7004366812227074, 0.291497975708502, 0.05673758865248227]
+89156 ('F0skew', 'F0kurt', 'F0tiltmax', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7004366812227074, 0.24120603015075376, 0.037825059101654845]
+89157 ('F0skew', 'F0kurt', 'F0tiltmax', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced', 'mindurunvoiced')
+[0.7032751091703057, 0.3125, 0.0591016548463357]
+89269 ('F0skew', 'F0kurt', 'F0tiltmax', 'kurtosistiltEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced', 'UP')
+[0.7006550218340611, 0.2926829268292683, 0.05673758865248227]
+89491 ('F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced')
+[0.7004366812227074, 0.27705627705627706, 0.0504334121355398]
+89496 ('F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'maxdurunvoiced')
+[0.7002183406113537, 0.2719298245614035, 0.04885736800630418]
+89556 ('F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced')
+[0.701528384279476, 0.28695652173913044, 0.05200945626477541]
+89574 ('F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'UP')
+[0.7026200873362446, 0.25654450261780104, 0.038613081166272656]
+89589 ('F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'UP')
+[0.7024017467248909, 0.2803738317757009, 0.04728132387706856]
+89613 ('F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7002183406113537, 0.2636363636363636, 0.045705279747832936]
+89619 ('F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'UP')
+[0.7006550218340611, 0.2616822429906542, 0.04412923561859732]
+89785 ('F0skew', 'F0kurt', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'VP')
+[0.7004366812227074, 0.28451882845188287, 0.05358550039401103]
+
+
+
+106303 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7026200873362446, 0.2663316582914573, 0.04176516942474389]
+106311 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced')
+[0.7013100436681222, 0.273972602739726, 0.04728132387706856]
+106313 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgdurunvoiced')
+[0.7017467248908297, 0.30980392156862746, 0.062253743104806934]
+106314 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'maxdurunvoiced')
+[0.7002183406113537, 0.2777777777777778, 0.0512214342001576]
+106318 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'UP')
+[0.7004366812227074, 0.2535885167464115, 0.04176516942474389]
+106328 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'avgdurunvoiced')
+[0.7017467248908297, 0.29004329004329005, 0.05279747832939322]
+106329 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced')
+[0.7037117903930131, 0.2981651376146789, 0.0512214342001576]
+106333 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'UP')
+[0.7006550218340611, 0.24752475247524752, 0.039401103230890466]
+106334 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7004366812227074, 0.26046511627906976, 0.04412923561859732]
+106339 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7008733624454149, 0.25365853658536586, 0.04097714736012608]
+106341 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'avgdurunvoiced', 'mindurunvoiced')
+[0.7004366812227074, 0.291497975708502, 0.05673758865248227]
+106351 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'mindurunvoiced', 'UP')
+[0.7006550218340611, 0.27232142857142855, 0.04806934594168637]
+106357 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7034934497816594, 0.27638190954773867, 0.04334121355397951]
+106358 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgdurunvoiced')
+[0.7002183406113537, 0.3102189781021898, 0.06698187549251379]
+106374 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced')
+[0.7008733624454149, 0.26291079812206575, 0.04412923561859732]
+106375 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'mindurunvoiced')
+[0.7008733624454149, 0.26291079812206575, 0.04412923561859732]
+106379 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7019650655021834, 0.2714285714285714, 0.04491725768321513]
+106380 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7037117903930131, 0.2708333333333333, 0.04097714736012608]
+106381 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.701528384279476, 0.2393617021276596, 0.03546099290780142]
+106384 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7030567685589519, 0.24, 0.03309692671394799]
+106414 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'UP')
+[0.7008733624454149, 0.26291079812206575, 0.04412923561859732]
+106415 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7013100436681222, 0.28193832599118945, 0.0504334121355398]
+106422 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'kurtosistiltEunvoiced', 'avgdurunvoiced', 'mindurunvoiced')
+[0.7017467248908297, 0.3249097472924188, 0.07092198581560284]
+106478 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdmseEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7002183406113537, 0.28688524590163933, 0.055161544523246654]
+106486 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'mindurunvoiced')
+[0.7002183406113537, 0.26146788990825687, 0.04491725768321513]
+106489 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7019650655021834, 0.2623762376237624, 0.04176516942474389]
+106493 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7010917030567686, 0.2524752475247525, 0.04018912529550828]
+106496 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UP')
+[0.7008733624454149, 0.2560386473429952, 0.04176516942474389]
+106503 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgdurunvoiced', 'maxdurunvoiced', 'UP')
+[0.7024017467248909, 0.28440366972477066, 0.04885736800630418]
+106588 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced')
+[0.7030567685589519, 0.2863849765258216, 0.04806934594168637]
+106775 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7006550218340611, 0.28205128205128205, 0.05200945626477541]
+106779 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7028384279475982, 0.3017241379310345, 0.055161544523246654]
+106850 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'avgdurunvoiced', 'UP')
+[0.701528384279476, 0.28695652173913044, 0.05200945626477541]
+107042 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'UP')
+[0.7004366812227074, 0.2626728110599078, 0.04491725768321513]
+107052 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7008733624454149, 0.2672811059907834, 0.045705279747832936]
+107085 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'UP')
+[0.7026200873362446, 0.26865671641791045, 0.0425531914893617]
+107086 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7006550218340611, 0.29435483870967744, 0.05752561071710008]
+107096 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7019650655021834, 0.29310344827586204, 0.05358550039401103]
+107164 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7010917030567686, 0.26851851851851855, 0.045705279747832936]
+107167 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UP')
+[0.7002183406113537, 0.25, 0.04097714736012608]
+107201 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced')
+[0.7013100436681222, 0.30120481927710846, 0.0591016548463357]
+107256 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7006550218340611, 0.2638888888888889, 0.04491725768321513]
+107284 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7004366812227074, 0.2626728110599078, 0.04491725768321513]
+107287 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UP')
+[0.7002183406113537, 0.24509803921568626, 0.039401103230890466]
+107297 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'avgdurunvoiced', 'mindurunvoiced', 'UP')
+[0.7002183406113537, 0.3129496402877698, 0.06855791962174941]
+107498 ('F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'mindurunvoiced', 'UP')
+[0.7017467248908297, 0.28444444444444444, 0.0504334121355398]
+110538 ('F0kurt', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7004366812227074, 0.23857868020304568, 0.037037037037037035]
+110635 ('F0kurt', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'avgtiltEunvoiced', 'maxdurunvoiced', 'mindurunvoiced')
+[0.7013100436681222, 0.3103448275862069, 0.06382978723404255]
+110665 ('F0kurt', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'mindurunvoiced')
+[0.701528384279476, 0.2850877192982456, 0.0512214342001576]
+110779 ('F0kurt', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7004366812227074, 0.26905829596412556, 0.04728132387706856]
+110825 ('F0kurt', 'F0tiltskw', 'lastF0skw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'mindurunvoiced')
+[0.7004366812227074, 0.2559241706161137, 0.0425531914893617]
+110873 ('F0kurt', 'F0tiltskw', 'lastF0skw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'UP')
+[0.7002183406113537, 0.24757281553398058, 0.04018912529550828]
+110891 ('F0kurt', 'F0tiltskw', 'lastF0skw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.701528384279476, 0.27102803738317754, 0.045705279747832936]
+111030 ('F0kurt', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced')
+[0.7028384279475982, 0.2830188679245283, 0.04728132387706856]
+111032 ('F0kurt', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7013100436681222, 0.27601809954751133, 0.04806934594168637]
+111211 ('F0kurt', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7010917030567686, 0.2641509433962264, 0.04412923561859732]
+111212 ('F0kurt', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7004366812227074, 0.26046511627906976, 0.04412923561859732]
+115694 ('F0kurt', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced')
+[0.7013100436681222, 0.30278884462151395, 0.05988967691095351]
+115708 ('F0kurt', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'UP')
+[0.7008733624454149, 0.2583732057416268, 0.0425531914893617]
+115847 ('F0kurt', 'stdEunvoiced', 'kurtosisEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7017467248908297, 0.28634361233480177, 0.0512214342001576]
+116256 ('F0kurt', 'stdEunvoiced', 'avgtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'VP')
+[0.7006550218340611, 0.29435483870967744, 0.05752561071710008]
+116819 ('F0kurt', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'maxdurunvoiced')
+[0.7008733624454149, 0.2794759825327511, 0.0504334121355398]
+116836 ('F0kurt', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7004366812227074, 0.23857868020304568, 0.037037037037037035]
+116845 ('F0kurt', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7006550218340611, 0.245, 0.038613081166272656]
+116862 ('F0kurt', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'UVU')
+[0.7004366812227074, 0.28085106382978725, 0.05200945626477541]
+116884 ('F0kurt', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7002183406113537, 0.2636363636363636, 0.045705279747832936]
+116944 ('F0kurt', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7017467248908297, 0.2987551867219917, 0.05673758865248227]
+116969 ('F0kurt', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7024017467248909, 0.2863636363636364, 0.04964539007092199]
+116989 ('F0kurt', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7002183406113537, 0.26576576576576577, 0.046493301812450746]
+117158 ('F0kurt', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7008733624454149, 0.2512315270935961, 0.04018912529550828]
+117262 ('F0kurt', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UP')
+[0.7004366812227074, 0.2559241706161137, 0.0425531914893617]
+117293 ('F0kurt', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'VP')
+[0.7006550218340611, 0.2782608695652174, 0.0504334121355398]
+117751 ('F0kurt', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'VP')
+[0.7026200873362446, 0.30864197530864196, 0.0591016548463357]
+117952 ('F0kurt', 'avgtiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7006550218340611, 0.24752475247524752, 0.039401103230890466]
+118017 ('F0kurt', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced', 'UP')
+[0.7006550218340611, 0.2702702702702703, 0.04728132387706856]
+118026 ('F0kurt', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'mindurunvoiced', 'UP')
+[0.7006550218340611, 0.2702702702702703, 0.04728132387706856]
+118072 ('F0kurt', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7026200873362446, 0.29333333333333333, 0.05200945626477541]
+119040 ('F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7004366812227074, 0.26905829596412556, 0.04728132387706856]
+127257 ('F0tiltskw', 'lastF0skw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7004366812227074, 0.2669683257918552, 0.046493301812450746]
+127437 ('F0tiltskw', 'lastF0skw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7002183406113537, 0.26785714285714285, 0.04728132387706856]
+128544 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7006550218340611, 0.24242424242424243, 0.037825059101654845]
+128555 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'mindurunvoiced')
+[0.701528384279476, 0.27927927927927926, 0.04885736800630418]
+128558 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'UP')
+[0.701528384279476, 0.23369565217391305, 0.0338849487785658]
+128571 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7026200873362446, 0.23728813559322035, 0.03309692671394799]
+128577 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'maxdurunvoiced', 'mindurunvoiced')
+[0.7013100436681222, 0.273972602739726, 0.04728132387706856]
+128580 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7004366812227074, 0.24378109452736318, 0.038613081166272656]
+128588 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7028384279475982, 0.2722772277227723, 0.04334121355397951]
+128595 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7017467248908297, 0.2512820512820513, 0.038613081166272656]
+128601 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'UP')
+[0.7013100436681222, 0.22346368715083798, 0.03152088258471237]
+128607 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7008733624454149, 0.20118343195266272, 0.026792750197005517]
+128616 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7006550218340611, 0.2571428571428571, 0.0425531914893617]
+128632 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7006550218340611, 0.25, 0.04018912529550828]
+128674 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'UVU')
+[0.7004366812227074, 0.24378109452736318, 0.038613081166272656]
+128683 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UP')
+[0.7034934497816594, 0.25139664804469275, 0.03546099290780142]
+128715 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7004366812227074, 0.24378109452736318, 0.038613081166272656]
+128722 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7021834061135371, 0.2943722943722944, 0.05358550039401103]
+128725 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'UVU')
+[0.7004366812227074, 0.2648401826484018, 0.045705279747832936]
+128727 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7019650655021834, 0.25757575757575757, 0.04018912529550828]
+128745 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced')
+[0.7030567685589519, 0.30303030303030304, 0.055161544523246654]
+128749 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced', 'UP')
+[0.7021834061135371, 0.2564102564102564, 0.039401103230890466]
+128755 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7010917030567686, 0.23118279569892472, 0.0338849487785658]
+128767 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'mindurunvoiced', 'UP')
+[0.7008733624454149, 0.2436548223350254, 0.037825059101654845]
+128771 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7004366812227074, 0.2669683257918552, 0.046493301812450746]
+128790 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'UVU', 'UP')
+[0.701528384279476, 0.27314814814814814, 0.046493301812450746]
+128793 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'mindurunvoiced')
+[0.7019650655021834, 0.28378378378378377, 0.04964539007092199]
+128795 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'VP')
+[0.7010917030567686, 0.25728155339805825, 0.04176516942474389]
+128796 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7013100436681222, 0.23809523809523808, 0.03546099290780142]
+128800 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7019650655021834, 0.2623762376237624, 0.04176516942474389]
+128803 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UP')
+[0.7028384279475982, 0.25268817204301075, 0.037037037037037035]
+128816 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'avgdurunvoiced', 'VP', 'UP')
+[0.7004366812227074, 0.2559241706161137, 0.0425531914893617]
+128839 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7006550218340611, 0.24752475247524752, 0.039401103230890466]
+128844 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7013100436681222, 0.2631578947368421, 0.04334121355397951]
+128858 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'UVU')
+[0.7002183406113537, 0.2719298245614035, 0.04885736800630418]
+128860 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7030567685589519, 0.26666666666666666, 0.04097714736012608]
+128879 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'VP')
+[0.7002183406113537, 0.2523809523809524, 0.04176516942474389]
+128880 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'UP')
+[0.701528384279476, 0.27102803738317754, 0.045705279747832936]
+129004 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced', 'VP')
+[0.7019650655021834, 0.2966101694915254, 0.055161544523246654]
+129005 ('F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced', 'UP')
+[0.7017467248908297, 0.2785388127853881, 0.04806934594168637]
+129048 ('F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'mindurunvoiced')
+[0.7002183406113537, 0.28512396694214875, 0.054373522458628844]
+129050 ('F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'VP')
+[0.7002183406113537, 0.29365079365079366, 0.05831363278171789]
+129076 ('F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced', 'mindurunvoiced')
+[0.7008733624454149, 0.305019305019305, 0.062253743104806934]
+129118 ('F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'mindurunvoiced', 'UP')
+[0.7010917030567686, 0.2641509433962264, 0.04412923561859732]
+129119 ('F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'UVU', 'VP')
+[0.7010917030567686, 0.28448275862068967, 0.05200945626477541]
+129126 ('F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7013100436681222, 0.273972602739726, 0.04728132387706856]
+129178 ('F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7008733624454149, 0.27555555555555555, 0.04885736800630418]
+129183 ('F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'UVU', 'UP')
+[0.7008733624454149, 0.2694063926940639, 0.046493301812450746]
+129186 ('F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7010917030567686, 0.2641509433962264, 0.04412923561859732]
+129190 ('F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7045851528384279, 0.2765957446808511, 0.04097714736012608]
+129198 ('F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced', 'VP')
+[0.7004366812227074, 0.28270042194092826, 0.05279747832939322]
+129199 ('F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7002183406113537, 0.26576576576576577, 0.046493301812450746]
+129210 ('F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7008733624454149, 0.2560386473429952, 0.04176516942474389]
+129217 ('F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UP')
+[0.7004366812227074, 0.24120603015075376, 0.037825059101654845]
+129273 ('F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UP')
+[0.7004366812227074, 0.2626728110599078, 0.04491725768321513]
+129275 ('F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'UVU', 'UP')
+[0.7004366812227074, 0.28085106382978725, 0.05200945626477541]
+129289 ('F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'avgmseEunvoiced', 'maxdurunvoiced', 'mindurunvoiced', 'UP')
+[0.7024017467248909, 0.30578512396694213, 0.05831363278171789]
+129301 ('F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7006550218340611, 0.25, 0.04018912529550828]
+129305 ('F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7006550218340611, 0.25, 0.04018912529550828]
+129335 ('F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced', 'UP')
+[0.7002183406113537, 0.27391304347826084, 0.04964539007092199]
+129350 ('F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'VP', 'UP')
+[0.7010917030567686, 0.2826086956521739, 0.0512214342001576]
+129456 ('F0tiltskw', 'stdEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7004366812227074, 0.25821596244131456, 0.04334121355397951]
+129468 ('F0tiltskw', 'stdEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced', 'mindurunvoiced', 'UP')
+[0.701528384279476, 0.2831858407079646, 0.0504334121355398]
+129480 ('F0tiltskw', 'stdEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7004366812227074, 0.2535885167464115, 0.04176516942474389]
+129485 ('F0tiltskw', 'stdEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'UVU', 'UP')
+[0.7002183406113537, 0.2719298245614035, 0.04885736800630418]
+129641 ('F0tiltskw', 'stdEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UP')
+[0.701528384279476, 0.2850877192982456, 0.0512214342001576]
+129776 ('F0tiltskw', 'stdEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced', 'UP')
+[0.701528384279476, 0.2772727272727273, 0.04806934594168637]
+129836 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'UP')
+[0.7028384279475982, 0.2653061224489796, 0.04097714736012608]
+129837 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7037117903930131, 0.26595744680851063, 0.039401103230890466]
+129843 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'UP')
+[0.7004366812227074, 0.2275132275132275, 0.0338849487785658]
+129844 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7041484716157205, 0.27835051546391754, 0.0425531914893617]
+129845 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7008733624454149, 0.2512315270935961, 0.04018912529550828]
+129846 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7006550218340611, 0.24242424242424243, 0.037825059101654845]
+129861 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'mindurunvoiced', 'UP')
+[0.7006550218340611, 0.234375, 0.03546099290780142]
+129863 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'UVU', 'UP')
+[0.7010917030567686, 0.2747747747747748, 0.04806934594168637]
+129864 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'VP', 'UP')
+[0.7008733624454149, 0.24102564102564103, 0.037037037037037035]
+129865 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7017467248908297, 0.26570048309178745, 0.04334121355397951]
+129867 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced')
+[0.7021834061135371, 0.2907488986784141, 0.05200945626477541]
+129874 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7017467248908297, 0.24607329842931938, 0.037037037037037035]
+129879 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'avgdurunvoiced', 'mindurunvoiced')
+[0.7013100436681222, 0.271889400921659, 0.046493301812450746]
+129886 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7030567685589519, 0.26903553299492383, 0.04176516942474389]
+129893 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7004366812227074, 0.24378109452736318, 0.038613081166272656]
+129898 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7019650655021834, 0.22093023255813954, 0.029944838455476755]
+129900 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'avgdurunvoiced', 'mindurunvoiced')
+[0.7008733624454149, 0.27555555555555555, 0.04885736800630418]
+129903 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7002183406113537, 0.25, 0.04097714736012608]
+129915 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'mindurunvoiced')
+[0.7026200873362446, 0.2731707317073171, 0.04412923561859732]
+129917 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'VP')
+[0.7008733624454149, 0.26291079812206575, 0.04412923561859732]
+129921 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'VP')
+[0.7019650655021834, 0.2692307692307692, 0.04412923561859732]
+129922 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7017467248908297, 0.24064171122994651, 0.03546099290780142]
+129923 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UVU')
+[0.7021834061135371, 0.2850678733031674, 0.04964539007092199]
+129924 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'VP')
+[0.7034934497816594, 0.2694300518134715, 0.04097714736012608]
+129926 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'UVU', 'VP')
+[0.7024017467248909, 0.26732673267326734, 0.0425531914893617]
+129949 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7024017467248909, 0.27403846153846156, 0.04491725768321513]
+129952 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced', 'mindurunvoiced')
+[0.7028384279475982, 0.2927927927927928, 0.0512214342001576]
+129957 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7008733624454149, 0.26066350710900477, 0.04334121355397951]
+129958 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7013100436681222, 0.2631578947368421, 0.04334121355397951]
+129961 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7008733624454149, 0.20809248554913296, 0.028368794326241134]
+129963 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'avgdurunvoiced', 'mindurunvoiced')
+[0.701528384279476, 0.26666666666666666, 0.04412923561859732]
+129970 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7006550218340611, 0.2524271844660194, 0.04097714736012608]
+129979 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7030567685589519, 0.28019323671497587, 0.045705279747832936]
+129982 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7013100436681222, 0.21052631578947367, 0.028368794326241134]
+130002 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7021834061135371, 0.2564102564102564, 0.039401103230890466]
+130008 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'VP')
+[0.7013100436681222, 0.2676056338028169, 0.04491725768321513]
+130009 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UP')
+[0.7010917030567686, 0.23118279569892472, 0.0338849487785658]
+130010 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'UVU', 'VP')
+[0.7008733624454149, 0.2512315270935961, 0.04018912529550828]
+130021 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgdurunvoiced', 'UVU', 'UP')
+[0.7028384279475982, 0.2830188679245283, 0.04728132387706856]
+130034 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7002183406113537, 0.26146788990825687, 0.04491725768321513]
+130062 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7032751091703057, 0.2631578947368421, 0.039401103230890466]
+130065 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UP')
+[0.7006550218340611, 0.23979591836734693, 0.037037037037037035]
+130066 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'UVU', 'VP')
+[0.7017467248908297, 0.27014218009478674, 0.04491725768321513]
+130097 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7008733624454149, 0.23834196891191708, 0.036249014972419225]
+130130 ('F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'mindurunvoiced', 'UP')
+[0.7019650655021834, 0.2798165137614679, 0.04806934594168637]
+130159 ('F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7004366812227074, 0.2559241706161137, 0.0425531914893617]
+130166 ('F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7019650655021834, 0.25757575757575757, 0.04018912529550828]
+130168 ('F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7006550218340611, 0.245, 0.038613081166272656]
+130187 ('F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7006550218340611, 0.2838983050847458, 0.05279747832939322]
+130189 ('F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7010917030567686, 0.26851851851851855, 0.045705279747832936]
+130192 ('F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7039301310043669, 0.2569832402234637, 0.036249014972419225]
+130212 ('F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7006550218340611, 0.245, 0.038613081166272656]
+130216 ('F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UP')
+[0.701528384279476, 0.2621359223300971, 0.0425531914893617]
+130217 ('F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UVU')
+[0.7002183406113537, 0.2719298245614035, 0.04885736800630418]
+130223 ('F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced', 'mindurunvoiced')
+[0.7010917030567686, 0.2863247863247863, 0.05279747832939322]
+130226 ('F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced', 'UP')
+[0.7008733624454149, 0.27149321266968324, 0.04728132387706856]
+130307 ('F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7002183406113537, 0.22916666666666666, 0.03467297084318361]
+130350 ('F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UVU', 'VP')
+[0.7004366812227074, 0.27510917030567683, 0.04964539007092199]
+130439 ('F0tiltskw', 'kurtosisEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'VP', 'UP')
+[0.7013100436681222, 0.25853658536585367, 0.04176516942474389]
+130627 ('F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced', 'UP')
+[0.7008733624454149, 0.2869198312236287, 0.05358550039401103]
+130645 ('F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'mindurunvoiced', 'UP')
+[0.7013100436681222, 0.28193832599118945, 0.0504334121355398]
+130650 ('F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7002183406113537, 0.2636363636363636, 0.045705279747832936]
+130651 ('F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7017467248908297, 0.2512820512820513, 0.038613081166272656]
+130663 ('F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7008733624454149, 0.2813852813852814, 0.0512214342001576]
+130673 ('F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'VP')
+[0.7004366812227074, 0.28270042194092826, 0.05279747832939322]
+130678 ('F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7002183406113537, 0.25471698113207547, 0.0425531914893617]
+130681 ('F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UP')
+[0.7026200873362446, 0.25654450261780104, 0.038613081166272656]
+130707 ('F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7002183406113537, 0.24509803921568626, 0.039401103230890466]
+130762 ('F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'mindurunvoiced')
+[0.7006550218340611, 0.27232142857142855, 0.04806934594168637]
+130764 ('F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'VP')
+[0.7030567685589519, 0.2843601895734597, 0.04728132387706856]
+130769 ('F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7045851528384279, 0.2558139534883721, 0.03467297084318361]
+130771 ('F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'VP')
+[0.7017467248908297, 0.2634146341463415, 0.0425531914893617]
+130772 ('F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UP')
+[0.701528384279476, 0.255, 0.04018912529550828]
+130775 ('F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'VP', 'UP')
+[0.7006550218340611, 0.2681818181818182, 0.046493301812450746]
+130782 ('F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'avgdurunvoiced', 'mindurunvoiced', 'UP')
+[0.7006550218340611, 0.2838983050847458, 0.05279747832939322]
+130788 ('F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced', 'mindurunvoiced', 'UP')
+[0.7010917030567686, 0.26635514018691586, 0.04491725768321513]
+130895 ('F0tiltskw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7019650655021834, 0.25257731958762886, 0.038613081166272656]
+130898 ('F0tiltskw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UP')
+[0.7008733624454149, 0.2512315270935961, 0.04018912529550828]
+130923 ('F0tiltskw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced', 'UVU')
+[0.7034934497816594, 0.32270916334661354, 0.06382978723404255]
+130929 ('F0tiltskw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'UVU', 'VP')
+[0.7008733624454149, 0.29554655870445345, 0.05752561071710008]
+130939 ('F0tiltskw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UVU', 'UP')
+[0.7006550218340611, 0.2702702702702703, 0.04728132387706856]
+130958 ('F0tiltskw', 'avgtiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'mindurunvoiced')
+[0.7013100436681222, 0.26976744186046514, 0.045705279747832936]
+131030 ('F0tiltskw', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced', 'UP')
+[0.7002183406113537, 0.24257425742574257, 0.038613081166272656]
+131036 ('F0tiltskw', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'VP', 'UP')
+[0.7004366812227074, 0.27510917030567683, 0.04964539007092199]
+131039 ('F0tiltskw', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'mindurunvoiced', 'UP')
+[0.7004366812227074, 0.25120772946859904, 0.04097714736012608]
+131284 ('F0tiltskw', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'mindurunvoiced', 'VP')
+[0.7013100436681222, 0.30278884462151395, 0.05988967691095351]
+132166 ('lastF0skw', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced', 'UP')
+[0.7032751091703057, 0.3026315789473684, 0.054373522458628844]
+132202 ('lastF0skw', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7002183406113537, 0.26146788990825687, 0.04491725768321513]
+132609 ('lastF0skw', 'stdEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7002183406113537, 0.2796610169491525, 0.05200945626477541]
+132852 ('lastF0skw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7004366812227074, 0.2669683257918552, 0.046493301812450746]
+133200 ('lastF0skw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7004366812227074, 0.291497975708502, 0.05673758865248227]
+133657 ('lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.701528384279476, 0.29411764705882354, 0.055161544523246654]
+133681 ('lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7002183406113537, 0.27586206896551724, 0.0504334121355398]
+133848 ('lastF0skw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7021834061135371, 0.296137339055794, 0.054373522458628844]
+133894 ('lastF0skw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7030567685589519, 0.31275720164609055, 0.05988967691095351]
+134146 ('lastF0skw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7008733624454149, 0.29045643153526973, 0.055161544523246654]
+137980 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'kurtosisEunvoiced')
+[0.7010917030567686, 0.3175182481751825, 0.06855791962174941]
+137981 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'avgtiltEunvoiced')
+[0.7004366812227074, 0.33003300330033003, 0.07880220646178093]
+137982 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'stdtiltEunvoiced')
+[0.7026200873362446, 0.33451957295373663, 0.07407407407407407]
+137983 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'kurtosistiltEunvoiced')
+[0.701528384279476, 0.3274647887323944, 0.07328605200945626]
+137985 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'stdmseEunvoiced')
+[0.7013100436681222, 0.3310580204778157, 0.0764381402679275]
+137986 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'kurtosislastEunvoiced')
+[0.7041484716157205, 0.34191176470588236, 0.07328605200945626]
+137987 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'avgdurunvoiced')
+[0.7004366812227074, 0.3354632587859425, 0.08274231678486997]
+137989 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'mindurunvoiced')
+[0.7006550218340611, 0.33223684210526316, 0.07959022852639874]
+137990 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'UVU')
+[0.7032751091703057, 0.359375, 0.09062253743104808]
+138004 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'kurtosisEunvoiced', 'UP')
+[0.7006550218340611, 0.3038461538461538, 0.062253743104806934]
+138005 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced')
+[0.7028384279475982, 0.3188976377952756, 0.06382978723404255]
+138006 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced')
+[0.7039301310043669, 0.3494809688581315, 0.07959022852639874]
+138007 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'avgmseEunvoiced')
+[0.7050218340611354, 0.36423841059602646, 0.08668242710795902]
+138009 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7013100436681222, 0.3088803088803089, 0.06304176516942474]
+138011 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'maxdurunvoiced')
+[0.7021834061135371, 0.3389830508474576, 0.07880220646178093]
+138016 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced')
+[0.7002183406113537, 0.3142857142857143, 0.06934594168636722]
+138018 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'stdmseEunvoiced')
+[0.7021834061135371, 0.3321554770318021, 0.07407407407407407]
+138019 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7028384279475982, 0.3050847457627119, 0.05673758865248227]
+138020 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'avgdurunvoiced')
+[0.7006550218340611, 0.31521739130434784, 0.06855791962174941]
+138025 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'UP')
+[0.7006550218340611, 0.3125, 0.06698187549251379]
+138042 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgmseEunvoiced', 'UP')
+[0.7008733624454149, 0.33222591362126247, 0.07880220646178093]
+138044 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdmseEunvoiced', 'avgdurunvoiced')
+[0.7024017467248909, 0.33793103448275863, 0.07722616233254531]
+138046 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdmseEunvoiced', 'mindurunvoiced')
+[0.7006550218340611, 0.3229166666666667, 0.07328605200945626]
+138055 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'kurtosislastEunvoiced', 'UP')
+[0.7002183406113537, 0.29365079365079366, 0.05831363278171789]
+138059 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgdurunvoiced', 'VP')
+[0.7006550218340611, 0.31386861313868614, 0.0677698975571316]
+138071 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced')
+[0.7010917030567686, 0.3310810810810811, 0.07722616233254531]
+138072 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced')
+[0.7010917030567686, 0.3188405797101449, 0.06934594168636722]
+138076 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'kurtosislastEunvoiced')
+[0.7043668122270742, 0.3333333333333333, 0.06698187549251379]
+138077 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgdurunvoiced')
+[0.7008733624454149, 0.30943396226415093, 0.06461780929866036]
+138078 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'maxdurunvoiced')
+[0.7002183406113537, 0.33116883116883117, 0.08037825059101655]
+138080 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'UVU')
+[0.7013100436681222, 0.3333333333333333, 0.07801418439716312]
+138081 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'VP')
+[0.7069868995633187, 0.3590733590733591, 0.07328605200945626]
+138082 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'UP')
+[0.7017467248908297, 0.33217993079584773, 0.07565011820330969]
+138083 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced')
+[0.7043668122270742, 0.3559322033898305, 0.08274231678486997]
+138084 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced')
+[0.7021834061135371, 0.34627831715210355, 0.08431836091410559]
+138085 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'avgmseEunvoiced')
+[0.7004366812227074, 0.3515850144092219, 0.09613869188337273]
+138086 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdmseEunvoiced')
+[0.7017467248908297, 0.358600583090379, 0.09692671394799054]
+138088 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'avgdurunvoiced')
+[0.7030567685589519, 0.34782608695652173, 0.08195429472025216]
+138090 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'mindurunvoiced')
+[0.7028384279475982, 0.35625, 0.08983451536643026]
+138096 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced')
+[0.701528384279476, 0.3496932515337423, 0.08983451536643026]
+138100 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'stdtiltEunvoiced', 'mindurunvoiced')
+[0.7028384279475982, 0.3435374149659864, 0.07959022852639874]
+138106 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7048034934497817, 0.34220532319391633, 0.07092198581560284]
+138108 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosistiltEunvoiced', 'maxdurunvoiced')
+[0.7058951965065502, 0.3717105263157895, 0.08904649330181245]
+138109 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosistiltEunvoiced', 'mindurunvoiced')
+[0.7008733624454149, 0.3396825396825397, 0.08431836091410559]
+138122 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'stdmseEunvoiced', 'avgdurunvoiced')
+[0.7037117903930131, 0.35714285714285715, 0.08668242710795902]
+138123 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced')
+[0.7056768558951965, 0.3713355048859935, 0.08983451536643026]
+138124 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'stdmseEunvoiced', 'mindurunvoiced')
+[0.7037117903930131, 0.36163522012578614, 0.09062253743104808]
+138126 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'stdmseEunvoiced', 'VP')
+[0.7024017467248909, 0.3464052287581699, 0.08353033884948778]
+138127 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'stdmseEunvoiced', 'UP')
+[0.7024017467248909, 0.3512658227848101, 0.08747044917257683]
+138128 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7045851528384279, 0.34444444444444444, 0.07328605200945626]
+138129 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7048034934497817, 0.36482084690553745, 0.08825847123719464]
+138131 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'UVU')
+[0.7032751091703057, 0.3392857142857143, 0.07486209613869188]
+138132 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7021834061135371, 0.3400673400673401, 0.07959022852639874]
+138133 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7030567685589519, 0.33807829181494664, 0.07486209613869188]
+138137 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'avgdurunvoiced', 'VP')
+[0.7002183406113537, 0.32894736842105265, 0.07880220646178093]
+138141 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'maxdurunvoiced', 'VP')
+[0.7028384279475982, 0.3525641025641026, 0.08668242710795902]
+138142 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7008733624454149, 0.3483483483483483, 0.09141055949566587]
+138144 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'mindurunvoiced', 'VP')
+[0.7037117903930131, 0.358974358974359, 0.08825847123719464]
+138149 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced')
+[0.7032751091703057, 0.32142857142857145, 0.06382978723404255]
+138152 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdmseEunvoiced')
+[0.7030567685589519, 0.3436426116838488, 0.07880220646178093]
+138153 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7002183406113537, 0.30451127819548873, 0.06382978723404255]
+138156 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'mindurunvoiced')
+[0.7006550218340611, 0.31386861313868614, 0.0677698975571316]
+138158 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'VP')
+[0.7013100436681222, 0.3263157894736842, 0.07328605200945626]
+138160 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced')
+[0.7008733624454149, 0.30039525691699603, 0.05988967691095351]
+138162 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced')
+[0.7026200873362446, 0.33568904593639576, 0.07486209613869188]
+138163 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7061135371179039, 0.3441295546558704, 0.06698187549251379]
+138164 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'avgdurunvoiced')
+[0.701528384279476, 0.31851851851851853, 0.0677698975571316]
+138165 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'maxdurunvoiced')
+[0.7019650655021834, 0.3333333333333333, 0.07565011820330969]
+138166 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'mindurunvoiced')
+[0.7002183406113537, 0.30597014925373134, 0.06461780929866036]
+138167 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'UVU')
+[0.7026200873362446, 0.33090909090909093, 0.07171000788022065]
+138168 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'VP')
+[0.7034934497816594, 0.3254901960784314, 0.06540583136327817]
+138169 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'UP')
+[0.7026200873362446, 0.3147410358565737, 0.062253743104806934]
+138188 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'stdmseEunvoiced', 'avgdurunvoiced')
+[0.7006550218340611, 0.3068181818181818, 0.06382978723404255]
+138194 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7026200873362446, 0.3021276595744681, 0.05594956658786446]
+138197 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'kurtosislastEunvoiced', 'UVU')
+[0.701528384279476, 0.30859375, 0.062253743104806934]
+138200 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced')
+[0.7010917030567686, 0.31343283582089554, 0.06619385342789598]
+138215 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced')
+[0.7039301310043669, 0.3473684210526316, 0.07801418439716312]
+138216 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced')
+[0.7017467248908297, 0.33559322033898303, 0.07801418439716312]
+138217 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced')
+[0.7019650655021834, 0.34615384615384615, 0.0851063829787234]
+138218 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7096069868995634, 0.36796536796536794, 0.06698187549251379]
+138219 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgdurunvoiced')
+[0.7043668122270742, 0.34767025089605735, 0.0764381402679275]
+138220 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'maxdurunvoiced')
+[0.7045851528384279, 0.35906040268456374, 0.08431836091410559]
+138221 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'mindurunvoiced')
+[0.7017467248908297, 0.3333333333333333, 0.0764381402679275]
+138222 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'UVU')
+[0.7017467248908297, 0.346031746031746, 0.08589440504334121]
+138224 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'UP')
+[0.7028384279475982, 0.33211678832116787, 0.07171000788022065]
+138229 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'maxdurunvoiced')
+[0.7045851528384279, 0.35906040268456374, 0.08431836091410559]
+138230 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'mindurunvoiced')
+[0.7008733624454149, 0.3240418118466899, 0.07328605200945626]
+138235 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7039301310043669, 0.3564356435643564, 0.0851063829787234]
+138244 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced')
+[0.7002183406113537, 0.3433734939759036, 0.08983451536643026]
+138245 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'mindurunvoiced')
+[0.7017467248908297, 0.35435435435435436, 0.09298660362490149]
+138249 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7021834061135371, 0.32075471698113206, 0.06698187549251379]
+138251 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7030567685589519, 0.3229571984435798, 0.06540583136327817]
+138252 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'UVU')
+[0.7034934497816594, 0.3470790378006873, 0.07959022852639874]
+138254 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7006550218340611, 0.3191489361702128, 0.07092198581560284]
+138258 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'avgdurunvoiced', 'VP')
+[0.7002183406113537, 0.3219178082191781, 0.07407407407407407]
+138262 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'maxdurunvoiced', 'VP')
+[0.7010917030567686, 0.3287671232876712, 0.07565011820330969]
+138264 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'mindurunvoiced', 'UVU')
+[0.7034934497816594, 0.35962145110410093, 0.08983451536643026]
+138265 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'mindurunvoiced', 'VP')
+[0.7034934497816594, 0.3511705685618729, 0.08274231678486997]
+138270 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced')
+[0.7017467248908297, 0.34890965732087226, 0.08825847123719464]
+138271 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced')
+[0.7037117903930131, 0.35987261146496813, 0.08904649330181245]
+138272 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7032751091703057, 0.3392857142857143, 0.07486209613869188]
+138273 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgdurunvoiced')
+[0.7008733624454149, 0.32646048109965636, 0.07486209613869188]
+138280 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7054585152838428, 0.354014598540146, 0.0764381402679275]
+138281 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'avgdurunvoiced')
+[0.7030567685589519, 0.3488372093023256, 0.08274231678486997]
+138287 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7002183406113537, 0.3102189781021898, 0.06698187549251379]
+138288 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'avgdurunvoiced')
+[0.7021834061135371, 0.34219269102990035, 0.08116627265563436]
+138289 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced')
+[0.7021834061135371, 0.35202492211838005, 0.08904649330181245]
+138290 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'mindurunvoiced')
+[0.7026200873362446, 0.3475409836065574, 0.08353033884948778]
+138292 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'VP')
+[0.7010917030567686, 0.3344370860927152, 0.07959022852639874]
+138293 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'UP')
+[0.7008733624454149, 0.3311036789297659, 0.07801418439716312]
+138294 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7010917030567686, 0.31343283582089554, 0.06619385342789598]
+138295 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7013100436681222, 0.31868131868131866, 0.06855791962174941]
+138296 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7041484716157205, 0.33955223880597013, 0.07171000788022065]
+138298 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.701528384279476, 0.3298611111111111, 0.07486209613869188]
+138303 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'avgdurunvoiced', 'VP')
+[0.7026200873362446, 0.33568904593639576, 0.07486209613869188]
+138311 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'mindurunvoiced', 'UP')
+[0.7030567685589519, 0.3447098976109215, 0.07959022852639874]
+138335 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7004366812227074, 0.30566037735849055, 0.06382978723404255]
+138360 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7010917030567686, 0.33221476510067116, 0.07801418439716312]
+138379 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7006550218340611, 0.31521739130434784, 0.06855791962174941]
+138403 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'VP')
+[0.701528384279476, 0.31851851851851853, 0.0677698975571316]
+138404 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'UP')
+[0.701528384279476, 0.3237410071942446, 0.07092198581560284]
+138405 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'mindurunvoiced')
+[0.7006550218340611, 0.3125, 0.06698187549251379]
+138407 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'VP')
+[0.7041484716157205, 0.35570469798657717, 0.08353033884948778]
+138408 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7030567685589519, 0.3308550185873606, 0.07013396375098503]
+138410 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'F0tiltskw', 'kurtosislastEunvoiced', 'mindurunvoiced', 'VP')
+[0.7008733624454149, 0.32764505119453924, 0.07565011820330969]
+138435 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced')
+[0.7004366812227074, 0.3230240549828179, 0.07407407407407407]
+138441 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgdurunvoiced')
+[0.7010917030567686, 0.30916030534351147, 0.06382978723404255]
+138445 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'kurtosisEunvoiced', 'VP')
+[0.7010917030567686, 0.3287671232876712, 0.07565011820330969]
+138447 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced')
+[0.7045851528384279, 0.3581081081081081, 0.08353033884948778]
+138450 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdmseEunvoiced')
+[0.7013100436681222, 0.35398230088495575, 0.09456264775413711]
+138451 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7019650655021834, 0.3389261744966443, 0.07959022852639874]
+138453 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'avgtiltEunvoiced', 'maxdurunvoiced')
+[0.7006550218340611, 0.3508771929824561, 0.09456264775413711]
+138454 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'avgtiltEunvoiced', 'mindurunvoiced')
+[0.7013100436681222, 0.35135135135135137, 0.09219858156028368]
+138456 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'avgtiltEunvoiced', 'VP')
+[0.701528384279476, 0.35060975609756095, 0.09062253743104808]
+138460 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced')
+[0.7028384279475982, 0.3424657534246575, 0.07880220646178093]
+138461 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7006550218340611, 0.2926829268292683, 0.05673758865248227]
+138462 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'stdtiltEunvoiced', 'avgdurunvoiced')
+[0.7010917030567686, 0.3310810810810811, 0.07722616233254531]
+138486 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'stdmseEunvoiced', 'avgdurunvoiced')
+[0.7045851528384279, 0.36, 0.0851063829787234]
+138488 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'stdmseEunvoiced', 'mindurunvoiced')
+[0.7026200873362446, 0.34448160535117056, 0.08116627265563436]
+138493 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7028384279475982, 0.3402777777777778, 0.07722616233254531]
+138494 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7032751091703057, 0.3392857142857143, 0.07486209613869188]
+138495 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'UVU')
+[0.7010917030567686, 0.3355263157894737, 0.08037825059101655]
+138496 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7030567685589519, 0.3295880149812734, 0.06934594168636722]
+138497 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7010917030567686, 0.3161764705882353, 0.0677698975571316]
+138498 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced')
+[0.7006550218340611, 0.3425925925925926, 0.08747044917257683]
+138502 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7002183406113537, 0.32432432432432434, 0.07565011820330969]
+138505 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'maxdurunvoiced', 'VP')
+[0.7019650655021834, 0.33783783783783783, 0.07880220646178093]
+138515 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'avgmseEunvoiced')
+[0.7008733624454149, 0.32764505119453924, 0.07565011820330969]
+138529 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'maxdurunvoiced')
+[0.7013100436681222, 0.3212996389891697, 0.07013396375098503]
+138534 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'kurtosisEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced')
+[0.7017467248908297, 0.3210332103321033, 0.06855791962174941]
+138579 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced')
+[0.7006550218340611, 0.31654676258992803, 0.06934594168636722]
+138580 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced')
+[0.7021834061135371, 0.3389830508474576, 0.07880220646178093]
+138581 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced')
+[0.7008733624454149, 0.3288135593220339, 0.0764381402679275]
+138582 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7028384279475982, 0.31451612903225806, 0.061465721040189124]
+138592 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgdurunvoiced')
+[0.7008733624454149, 0.31636363636363635, 0.06855791962174941]
+138613 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.701528384279476, 0.325, 0.07171000788022065]
+138615 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7004366812227074, 0.31135531135531136, 0.06698187549251379]
+138616 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'UVU')
+[0.7030567685589519, 0.34035087719298246, 0.0764381402679275]
+138617 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7008733624454149, 0.3365695792880259, 0.08195429472025216]
+138619 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'avgtiltEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced')
+[0.7010917030567686, 0.3333333333333333, 0.07880220646178093]
+138620 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'avgtiltEunvoiced', 'avgdurunvoiced', 'mindurunvoiced')
+[0.7010917030567686, 0.3263888888888889, 0.07407407407407407]
+138621 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'avgtiltEunvoiced', 'avgdurunvoiced', 'UVU')
+[0.7002183406113537, 0.32894736842105265, 0.07880220646178093]
+138622 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'avgtiltEunvoiced', 'avgdurunvoiced', 'VP')
+[0.7006550218340611, 0.3288590604026846, 0.07722616233254531]
+138635 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced')
+[0.7004366812227074, 0.3154121863799283, 0.06934594168636722]
+138636 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7006550218340611, 0.30078125, 0.06067769897557131]
+138643 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced')
+[0.7004366812227074, 0.3395638629283489, 0.08589440504334121]
+138654 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'mindurunvoiced')
+[0.7024017467248909, 0.3345070422535211, 0.07486209613869188]
+138658 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7008733624454149, 0.29554655870445345, 0.05752561071710008]
+138659 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7021834061135371, 0.31800766283524906, 0.06540583136327817]
+138668 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdtiltEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7024017467248909, 0.31640625, 0.06382978723404255]
+138671 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'lastF0skw', 'stdtiltEunvoiced', 'maxdurunvoiced', 'VP')
+[0.7019650655021834, 0.3321678321678322, 0.07486209613869188]
+138799 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced')
+[0.7056768558951965, 0.35424354243542433, 0.07565011820330969]
+138802 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdmseEunvoiced')
+[0.7010917030567686, 0.33974358974358976, 0.08353033884948778]
+138803 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7008733624454149, 0.32764505119453924, 0.07565011820330969]
+138804 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'avgdurunvoiced')
+[0.7006550218340611, 0.33223684210526316, 0.07959022852639874]
+138808 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'VP')
+[0.7013100436681222, 0.3438485804416404, 0.08589440504334121]
+138812 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced')
+[0.7052401746724891, 0.35379061371841153, 0.07722616233254531]
+138813 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7056768558951965, 0.35315985130111527, 0.07486209613869188]
+138815 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'maxdurunvoiced')
+[0.7019650655021834, 0.3356164383561644, 0.07722616233254531]
+138816 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'mindurunvoiced')
+[0.701528384279476, 0.3344594594594595, 0.07801418439716312]
+138818 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'VP')
+[0.7013100436681222, 0.33663366336633666, 0.08037825059101655]
+138836 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgmseEunvoiced', 'UP')
+[0.7008733624454149, 0.33865814696485624, 0.08353033884948778]
+138844 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'kurtosisEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7019650655021834, 0.313953488372093, 0.06382978723404255]
+138848 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'kurtosisEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7026200873362446, 0.33451957295373663, 0.07407407407407407]
+138863 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'kurtosisEunvoiced', 'UVU', 'UP')
+[0.7021834061135371, 0.3389830508474576, 0.07880220646178093]
+138867 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced')
+[0.7048034934497817, 0.35738831615120276, 0.08195429472025216]
+138868 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7034934497816594, 0.34494773519163763, 0.07801418439716312]
+138870 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'maxdurunvoiced')
+[0.7002183406113537, 0.3333333333333333, 0.08195429472025216]
+138873 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'VP')
+[0.7017467248908297, 0.3470031545741325, 0.08668242710795902]
+138876 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced')
+[0.7004366812227074, 0.3425076452599388, 0.08825847123719464]
+138878 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgdurunvoiced')
+[0.7019650655021834, 0.3333333333333333, 0.07565011820330969]
+138881 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'UVU')
+[0.7004366812227074, 0.35327635327635326, 0.09771473601260836]
+138892 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7019650655021834, 0.3490566037735849, 0.08747044917257683]
+138893 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'avgdurunvoiced')
+[0.7030567685589519, 0.36, 0.09219858156028368]
+138894 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced')
+[0.7010917030567686, 0.3484848484848485, 0.09062253743104808]
+138895 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'mindurunvoiced')
+[0.701528384279476, 0.34782608695652173, 0.08825847123719464]
+138898 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'UP')
+[0.7006550218340611, 0.3445121951219512, 0.08904649330181245]
+138899 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7030567685589519, 0.34256055363321797, 0.07801418439716312]
+138902 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'UVU')
+[0.7019650655021834, 0.35365853658536583, 0.09141055949566587]
+138903 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7021834061135371, 0.3501577287066246, 0.08747044917257683]
+138904 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7013100436681222, 0.3333333333333333, 0.07801418439716312]
+138923 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgdurunvoiced')
+[0.7037117903930131, 0.337037037037037, 0.07171000788022065]
+138937 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7013100436681222, 0.33444816053511706, 0.07880220646178093]
+138938 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'avgdurunvoiced')
+[0.7024017467248909, 0.34121621621621623, 0.07959022852639874]
+138939 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced')
+[0.7052401746724891, 0.36271186440677966, 0.08431836091410559]
+138940 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'mindurunvoiced')
+[0.7034934497816594, 0.3540983606557377, 0.0851063829787234]
+138951 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'stdtiltEunvoiced', 'avgdurunvoiced', 'mindurunvoiced')
+[0.7010917030567686, 0.34375, 0.08668242710795902]
+138954 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'stdtiltEunvoiced', 'avgdurunvoiced', 'UP')
+[0.701528384279476, 0.34591194968553457, 0.08668242710795902]
+138957 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'stdtiltEunvoiced', 'maxdurunvoiced', 'VP')
+[0.7002183406113537, 0.32894736842105265, 0.07880220646178093]
+138973 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7006550218340611, 0.32413793103448274, 0.07407407407407407]
+138976 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'mindurunvoiced')
+[0.7002183406113537, 0.33116883116883117, 0.08037825059101655]
+138980 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.701528384279476, 0.31985294117647056, 0.06855791962174941]
+138981 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7002183406113537, 0.33544303797468356, 0.08353033884948778]
+138988 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'kurtosistiltEunvoiced', 'avgdurunvoiced', 'UVU')
+[0.7017467248908297, 0.3236363636363636, 0.07013396375098503]
+138993 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'kurtosistiltEunvoiced', 'maxdurunvoiced', 'VP')
+[0.7006550218340611, 0.3253424657534247, 0.07486209613869188]
+139008 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7024017467248909, 0.34539473684210525, 0.08274231678486997]
+139030 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7002183406113537, 0.31690140845070425, 0.07092198581560284]
+139031 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7006550218340611, 0.33112582781456956, 0.07880220646178093]
+139032 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'UVU')
+[0.7013100436681222, 0.3448275862068966, 0.08668242710795902]
+139050 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced')
+[0.7008733624454149, 0.3396825396825397, 0.08431836091410559]
+139053 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'VP')
+[0.7002183406113537, 0.3181818181818182, 0.07171000788022065]
+139054 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7006550218340611, 0.32167832167832167, 0.07249802994483845]
+139057 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'VP')
+[0.7021834061135371, 0.3285198555956679, 0.07171000788022065]
+139060 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'VP')
+[0.7039301310043669, 0.34843205574912894, 0.07880220646178093]
+139064 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'kurtosislastEunvoiced', 'VP', 'UP')
+[0.7019650655021834, 0.3333333333333333, 0.07565011820330969]
+139067 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced', 'VP')
+[0.7017467248908297, 0.343042071197411, 0.08353033884948778]
+139076 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdEunvoiced', 'maxdurunvoiced', 'mindurunvoiced', 'VP')
+[0.7006550218340611, 0.33653846153846156, 0.08274231678486997]
+139085 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced')
+[0.7032751091703057, 0.3269230769230769, 0.06698187549251379]
+139086 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced')
+[0.7061135371179039, 0.37209302325581395, 0.08825847123719464]
+139087 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced')
+[0.7039301310043669, 0.3382899628252788, 0.07171000788022065]
+139089 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgdurunvoiced')
+[0.7037117903930131, 0.337037037037037, 0.07171000788022065]
+139091 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'mindurunvoiced')
+[0.7019650655021834, 0.3181818181818182, 0.06619385342789598]
+139094 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'UP')
+[0.701528384279476, 0.322463768115942, 0.07013396375098503]
+139097 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7010917030567686, 0.3076923076923077, 0.06304176516942474]
+139098 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgdurunvoiced')
+[0.7002183406113537, 0.3074074074074074, 0.06540583136327817]
+139102 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'VP')
+[0.7021834061135371, 0.33676975945017185, 0.07722616233254531]
+139105 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7008733624454149, 0.3215547703180212, 0.07171000788022065]
+139106 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'avgmseEunvoiced', 'avgdurunvoiced')
+[0.7004366812227074, 0.31272727272727274, 0.0677698975571316]
+139112 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7006550218340611, 0.3333333333333333, 0.08037825059101655]
+139116 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'UVU')
+[0.7021834061135371, 0.34219269102990035, 0.08116627265563436]
+139122 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'UVU')
+[0.7028384279475982, 0.3424657534246575, 0.07880220646178093]
+139123 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7058951965065502, 0.3607142857142857, 0.07959022852639874]
+139125 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced')
+[0.7004366812227074, 0.3192982456140351, 0.07171000788022065]
+139128 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'avgdurunvoiced', 'VP')
+[0.7004366812227074, 0.3192982456140351, 0.07171000788022065]
+139132 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'maxdurunvoiced', 'VP')
+[0.701528384279476, 0.325, 0.07171000788022065]
+139142 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7021834061135371, 0.3076923076923077, 0.05988967691095351]
+139149 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced')
+[0.7026200873362446, 0.3368421052631579, 0.07565011820330969]
+139150 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced')
+[0.701528384279476, 0.31851851851851853, 0.0677698975571316]
+139152 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'maxdurunvoiced')
+[0.7041484716157205, 0.3475177304964539, 0.07722616233254531]
+139155 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'VP')
+[0.7017467248908297, 0.3169811320754717, 0.06619385342789598]
+139159 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced')
+[0.7010917030567686, 0.33221476510067116, 0.07801418439716312]
+139164 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7006550218340611, 0.3053435114503817, 0.06304176516942474]
+139166 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.701528384279476, 0.31297709923664124, 0.06461780929866036]
+139168 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7028384279475982, 0.3203125, 0.06461780929866036]
+139169 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7008733624454149, 0.3065134099616858, 0.06304176516942474]
+139200 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7006550218340611, 0.2857142857142857, 0.05358550039401103]
+139221 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7008733624454149, 0.32525951557093424, 0.07407407407407407]
+139229 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7037117903930131, 0.3472222222222222, 0.07880220646178093]
+139274 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosisEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7004366812227074, 0.291497975708502, 0.05673758865248227]
+139306 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced')
+[0.7024017467248909, 0.3345070422535211, 0.07486209613869188]
+139307 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7004366812227074, 0.30855018587360594, 0.06540583136327817
+139308 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgdurunvoiced')
+[0.7006550218340611, 0.32653061224489793, 0.07565011820330969]
+139309 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'maxdurunvoiced')
+[0.7032751091703057, 0.332089552238806, 0.07013396375098503]
+139314 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced')
+[0.7006550218340611, 0.3375796178343949, 0.08353033884948778]
+139315 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7041484716157205, 0.34074074074074073, 0.07249802994483845]
+139316 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'avgdurunvoiced')
+[0.7008733624454149, 0.32996632996632996, 0.07722616233254531]
+139317 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'maxdurunvoiced')
+[0.7004366812227074, 0.3322475570032573, 0.08037825059101655]
+139321 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'UP')
+[0.7008733624454149, 0.32764505119453924, 0.07565011820330969]
+139322 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7058951965065502, 0.35661764705882354, 0.0764381402679275]
+139324 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced')
+[0.7002183406113537, 0.3231292517006803, 0.07486209613869188]
+139325 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'mindurunvoiced')
+[0.7013100436681222, 0.3250883392226148, 0.07249802994483845]
+139329 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7006550218340611, 0.3082706766917293, 0.06461780929866036]
+139331 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7030567685589519, 0.32567049808429116, 0.06698187549251379]
+139333 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7008733624454149, 0.3215547703180212, 0.07171000788022065]
+139340 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'maxdurunvoiced', 'mindurunvoiced')
+[0.7002183406113537, 0.31690140845070425, 0.07092198581560284]
+139342 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'maxdurunvoiced', 'VP')
+[0.7010917030567686, 0.3275862068965517, 0.07486209613869188]
+139346 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'mindurunvoiced', 'UP')
+[0.7017467248908297, 0.33217993079584773, 0.07565011820330969]
+139351 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7010917030567686, 0.34375, 0.08668242710795902]
+139352 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'avgdurunvoiced')
+[0.7037117903930131, 0.3543046357615894, 0.08431836091410559]
+139366 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7043668122270742, 0.34767025089605735, 0.0764381402679275]
+139367 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7013100436681222, 0.33444816053511706, 0.07880220646178093]
+139368 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'UVU')
+[0.7026200873362446, 0.34951456310679613, 0.0851063829787234]
+139369 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7028384279475982, 0.3424657534246575, 0.07880220646178093]
+139370 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7021834061135371, 0.3166023166023166, 0.06461780929866036]
+139371 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced')
+[0.7013100436681222, 0.33220338983050846, 0.07722616233254531]
+139375 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7004366812227074, 0.3277591973244147, 0.07722616233254531]
+139376 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'maxdurunvoiced', 'mindurunvoiced')
+[0.7010917030567686, 0.3344370860927152, 0.07959022852639874]
+139387 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced', 'avgdurunvoiced')
+[0.7017467248908297, 0.35435435435435436, 0.09298660362490149]
+139393 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7030567685589519, 0.34146341463414637, 0.07722616233254531]
+139394 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7013100436681222, 0.33663366336633666, 0.08037825059101655]
+139395 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7052401746724891, 0.36807817589576547, 0.08904649330181245]
+139397 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.701528384279476, 0.3449367088607595, 0.08589440504334121]
+139398 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7021834061135371, 0.3442622950819672, 0.08274231678486997]
+139416 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7039301310043669, 0.36012861736334406, 0.08825847123719464]
+139419 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7024017467248909, 0.34121621621621623, 0.07959022852639874]
+139439 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7004366812227074, 0.31135531135531136, 0.06698187549251379]
+139443 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7021834061135371, 0.3400673400673401, 0.07959022852639874]
+139446 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UP')
+[0.701528384279476, 0.3298611111111111, 0.07486209613869188]
+139470 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced')
+[0.7004366812227074, 0.33003300330033003, 0.07880220646178093]
+139471 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7008733624454149, 0.31365313653136534, 0.06698187549251379]
+139473 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'maxdurunvoiced')
+[0.7028384279475982, 0.35802469135802467, 0.09141055949566587]
+139478 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7043668122270742, 0.34545454545454546, 0.07486209613869188]
+139480 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced')
+[0.7026200873362446, 0.3423728813559322, 0.07959022852639874]
+139483 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'VP')
+[0.7002183406113537, 0.31690140845070425, 0.07092198581560284]
+139485 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7004366812227074, 0.3192982456140351, 0.07171000788022065]
+139487 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7017467248908297, 0.3274021352313167, 0.07249802994483845]
+139490 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7017467248908297, 0.31970260223048325, 0.0677698975571316]
+139513 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7004366812227074, 0.3154121863799283, 0.06934594168636722]
+139515 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7021834061135371, 0.3309608540925267, 0.07328605200945626]
+139516 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'UVU')
+[0.7004366812227074, 0.3289036544850498, 0.07801418439716312]
+139519 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced')
+[0.7004366812227074, 0.3395638629283489, 0.08589440504334121]
+139538 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.701528384279476, 0.32867132867132864, 0.07407407407407407]
+139547 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced', 'VP')
+[0.7010917030567686, 0.3355263157894737, 0.08037825059101655]
+139548
+139563 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7037117903930131, 0.3382352941176471, 0.07249802994483845]
+139590 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7024017467248909, 0.3345070422535211, 0.07486209613869188]
+139598 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7010917030567686, 0.3275862068965517, 0.07486209613869188]
+139600 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'UVU')
+[0.7002183406113537, 0.32781456953642385, 0.07801418439716312]
+139645 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UVU')
+[0.7032751091703057, 0.3392857142857143, 0.07486209613869188]
+139674 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgmseEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7039301310043669, 0.3473684210526316, 0.07801418439716312]
+139680 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgmseEunvoiced', 'stdmseEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced')
+[0.7004366812227074, 0.3322475570032573, 0.08037825059101655]
+139698 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'VP')
+[0.7004366812227074, 0.30996309963099633, 0.06619385342789598]
+139739 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UVU')
+[0.701528384279476, 0.33986928104575165, 0.08195429472025216]
+139775 ('F0max', 'F0skew', 'F0kurt', 'F0tiltmax', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'mindurunvoiced', 'UVU')
+[0.7017467248908297, 0.33993399339933994, 0.08116627265563436]
+139811 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'kurtosisEunvoiced', 'UP')
+[0.7002183406113537, 0.2952755905511811, 0.0591016548463357]
+139812 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced')
+[0.7013100436681222, 0.32752613240418116, 0.07407407407407407]
+139813 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced')
+[0.7004366812227074, 0.33003300330033003, 0.07880220646178093]
+139815 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdmseEunvoiced')
+[0.701528384279476, 0.3515151515151515, 0.09141055949566587]
+139817 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'avgtiltEunvoiced', 'avgdurunvoiced')
+[0.7004366812227074, 0.3333333333333333, 0.08116627265563436]
+139818 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'avgtiltEunvoiced', 'maxdurunvoiced')
+[0.7006550218340611, 0.33860759493670883, 0.08431836091410559]
+139819 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'avgtiltEunvoiced', 'mindurunvoiced')
+[0.7030567685589519, 0.34782608695652173, 0.08195429472025216]
+139820 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'avgtiltEunvoiced', 'UVU')
+[0.7017467248908297, 0.3560830860534125, 0.09456264775413711]
+139827 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'stdtiltEunvoiced', 'avgdurunvoiced')
+[0.7028384279475982, 0.3435374149659864, 0.07959022852639874]
+139829 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'stdtiltEunvoiced', 'mindurunvoiced')
+[0.7008733624454149, 0.3176895306859206, 0.06934594168636722]
+139834 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced')
+[0.7002183406113537, 0.3142857142857143, 0.06934594168636722]
+139835 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7017467248908297, 0.3020408163265306, 0.05831363278171789]
+139841 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'kurtosistiltEunvoiced', 'UP')
+[0.701528384279476, 0.33774834437086093, 0.08037825059101655]
+139852 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced')
+[0.7045851528384279, 0.3627450980392157, 0.08747044917257683]
+139853 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'stdmseEunvoiced', 'mindurunvoiced')
+[0.7006550218340611, 0.34355828220858897, 0.08825847123719464]
+139859 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7032751091703057, 0.3392857142857143, 0.07486209613869188]
+139874 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'mindurunvoiced', 'UP')
+[0.7017467248908297, 0.33993399339933994, 0.08116627265563436]
+139875 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'UVU', 'VP')
+[0.7021834061135371, 0.3556231003039514, 0.09219858156028368]
+139883 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'avgdurunvoiced')
+[0.7017467248908297, 0.29707112970711297, 0.05594956658786446]
+139884 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'maxdurunvoiced')
+[0.7002183406113537, 0.3142857142857143, 0.06934594168636722]
+139885 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'mindurunvoiced')
+[0.7037117903930131, 0.3253968253968254, 0.06461780929866036]
+139888 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'UP')
+[0.7002183406113537, 0.3088235294117647, 0.06619385342789598]
+139890 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced')
+[0.701528384279476, 0.322463768115942, 0.07013396375098503]
+139891 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced')
+[0.7010917030567686, 0.3031496062992126, 0.06067769897557131]
+139892 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced')
+[0.701528384279476, 0.3055555555555556, 0.06067769897557131]
+139894 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'maxdurunvoiced')
+[0.7030567685589519, 0.32567049808429116, 0.06698187549251379]
+139895 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'mindurunvoiced')
+[0.7043668122270742, 0.32510288065843623, 0.062253743104806934]
+139898 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'UP')
+[0.7045851528384279, 0.3372093023255814, 0.06855791962174941]
+139912 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'kurtosisEunvoiced', 'avgmseEunvoiced', 'mindurunvoiced')
+[0.7008733624454149, 0.30798479087452474, 0.06382978723404255]
+139923 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'kurtosisEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7026200873362446, 0.3021276595744681, 0.05594956658786446]
+139925 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'kurtosisEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7008733624454149, 0.30798479087452474, 0.06382978723404255]
+139945 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced')
+[0.7002183406113537, 0.32781456953642385, 0.07801418439716312]
+139946 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced')
+[0.7032751091703057, 0.3458904109589041, 0.07959022852639874]
+139947 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7030567685589519, 0.3157894736842105, 0.061465721040189124]
+139948
+139948 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgdurunvoiced')
+[0.7063318777292577, 0.3582089552238806, 0.07565011820330969]
+139950 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'mindurunvoiced')
+[0.7028384279475982, 0.3380281690140845, 0.07565011820330969]
+139953 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'UP')
+[0.7021834061135371, 0.3285198555956679, 0.07171000788022065]
+139956 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7008733624454149, 0.31226765799256506, 0.06619385342789598]
+139959 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'mindurunvoiced')
+[0.7019650655021834, 0.3356164383561644, 0.07722616233254531]
+139973 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced')
+[0.7019650655021834, 0.34415584415584416, 0.08353033884948778]
+139974 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'mindurunvoiced')
+[0.7013100436681222, 0.3263157894736842, 0.07328605200945626]
+139980 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7034934497816594, 0.3333333333333333, 0.07013396375098503]
+139986 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'avgdurunvoiced', 'UVU')
+[0.7008733624454149, 0.3215547703180212, 0.07171000788022065]
+139989 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'maxdurunvoiced', 'mindurunvoiced')
+[0.7024017467248909, 0.339041095890411, 0.07801418439716312]
+139999 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced')
+[0.7013100436681222, 0.3263157894736842, 0.07328605200945626]
+140000 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced')
+[0.7030567685589519, 0.3488372093023256, 0.08274231678486997]
+140003 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'maxdurunvoiced')
+[0.7017467248908297, 0.3286219081272085, 0.07328605200945626]
+140004 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'mindurunvoiced')
+[0.7021834061135371, 0.32974910394265233, 0.07249802994483845]
+140016 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7041484716157205, 0.34191176470588236, 0.07328605200945626]
+140017 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'avgdurunvoiced')
+[0.7010917030567686, 0.3355263157894737, 0.08037825059101655]
+140022 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'UP')
+[0.7002183406113537, 0.32550335570469796, 0.0764381402679275]
+140024 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7021834061135371, 0.32727272727272727, 0.07092198581560284]
+140025 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7010917030567686, 0.29838709677419356, 0.05831363278171789]
+140027 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7004366812227074, 0.30566037735849055, 0.06382978723404255]
+140028 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7017467248908297, 0.31970260223048325, 0.0677698975571316]
+140034 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'maxdurunvoiced', 'mindurunvoiced')
+[0.7063318777292577, 0.36524822695035464, 0.08116627265563436]
+140054 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced')
+[0.7010917030567686, 0.3287671232876712, 0.07565011820330969]
+140082 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'avgmseEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced')
+[0.7002183406113537, 0.31690140845070425, 0.07092198581560284]
+140093 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'avgmseEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced')
+[0.7008733624454149, 0.3333333333333333, 0.07959022852639874]
+140109 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'lastF0skw', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7008733624454149, 0.32280701754385965, 0.07249802994483845]
+140164 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced')
+[0.7045851528384279, 0.34328358208955223, 0.07249802994483845]
+140168 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7024017467248909, 0.3333333333333333, 0.07407407407407407]
+140175 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced')
+[0.7006550218340611, 0.3068181818181818, 0.06382978723404255]
+140219 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7010917030567686, 0.30916030534351147, 0.06382978723404255]
+140232 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced')
+[0.7021834061135371, 0.3411371237458194, 0.08037825059101655]
+140234 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgdurunvoiced')
+[0.7010917030567686, 0.3344370860927152, 0.07959022852639874]
+140236 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'mindurunvoiced')
+[0.7039301310043669, 0.3592233009708738, 0.08747044917257683]
+140244 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'maxdurunvoiced')
+[0.7006550218340611, 0.33962264150943394, 0.0851063829787234]
+140265 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7030567685589519, 0.3573667711598746, 0.08983451536643026]
+140266 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7037117903930131, 0.34285714285714286, 0.07565011820330969]
+140268 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7010917030567686, 0.34177215189873417, 0.0851063829787234]
+140280 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'mindurunvoiced', 'VP')
+[0.701528384279476, 0.35240963855421686, 0.09219858156028368]
+140286 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced')
+[0.7028384279475982, 0.34967320261437906, 0.08431836091410559]
+140287 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7002183406113537, 0.3088235294117647, 0.06619385342789598]
+140304 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced')
+[0.701528384279476, 0.3532934131736527, 0.09298660362490149]
+140305 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'mindurunvoiced')
+[0.7006550218340611, 0.3416149068322981, 0.08668242710795902]
+140311 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7008733624454149, 0.32280701754385965, 0.07249802994483845]
+140314 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7010917030567686, 0.3299319727891156, 0.0764381402679275]
+140319 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdEunvoiced', 'stdtiltEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7045851528384279, 0.3618421052631579, 0.08668242710795902]
+140346 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7028384279475982, 0.3333333333333333, 0.07249802994483845]
+140350 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7002183406113537, 0.3194444444444444, 0.07249802994483845]
+140352 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdEunvoiced', 'kurtosistiltEunvoiced', 'avgdurunvoiced', 'mindurunvoiced')
+[0.701528384279476, 0.33774834437086093, 0.08037825059101655]
+140425 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'VP')
+[0.7013100436681222, 0.33554817275747506, 0.07959022852639874]
+140426 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UP')
+[0.7021834061135371, 0.3333333333333333, 0.07486209613869188]
+140452 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced')
+[0.7002183406113537, 0.30451127819548873, 0.06382978723404255]
+140453 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7013100436681222, 0.3146067415730337, 0.06619385342789598]
+140457 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'UVU')
+[0.7006550218340611, 0.32167832167832167, 0.07249802994483845]
+140464 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'maxdurunvoiced')
+[0.7002183406113537, 0.3194444444444444, 0.07249802994483845]
+140488 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7006550218340611, 0.30970149253731344, 0.06540583136327817]
+140501 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'mindurunvoiced', 'UP')
+[0.7013100436681222, 0.3103448275862069, 0.06382978723404255]
+140639 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'kurtosisEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7008733624454149, 0.2938775510204082, 0.05673758865248227]
+140672 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7019650655021834, 0.32222222222222224, 0.06855791962174941]
+140675 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'mindurunvoiced')
+[0.7004366812227074, 0.3242320819112628, 0.07486209613869188]
+140680 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7039301310043669, 0.34065934065934067, 0.07328605200945626]
+140682 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'maxdurunvoiced')
+[0.7028384279475982, 0.34459459459459457, 0.08037825059101655]
+140683 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'mindurunvoiced')
+[0.7019650655021834, 0.34105960264900664, 0.08116627265563436]
+140687 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7013100436681222, 0.33220338983050846, 0.07722616233254531]
+140688 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'avgdurunvoiced')
+[0.7032751091703057, 0.3509933774834437, 0.08353033884948778]
+140690 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'mindurunvoiced')
+[0.7019650655021834, 0.34210526315789475, 0.08195429472025216]
+140695 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7054585152838428, 0.34962406015037595, 0.07328605200945626]
+140696 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7010917030567686, 0.31203007518796994, 0.06540583136327817]
+140698 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7041484716157205, 0.3464285714285714, 0.0764381402679275]
+140699 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7006550218340611, 0.3053435114503817, 0.06304176516942474]
+140701 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgdurunvoiced', 'mindurunvoiced')
+[0.7002183406113537, 0.32781456953642385, 0.07801418439716312]
+140705 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'maxdurunvoiced', 'mindurunvoiced')
+[0.7006550218340611, 0.3333333333333333, 0.08037825059101655]
+140716 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7017467248908297, 0.33559322033898303, 0.07801418439716312]
+140719 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'mindurunvoiced')
+[0.7017467248908297, 0.3470031545741325, 0.08668242710795902]
+140730 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7004366812227074, 0.31272727272727274, 0.0677698975571316]
+140737 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgdurunvoiced', 'mindurunvoiced')
+[0.7013100436681222, 0.32989690721649484, 0.07565011820330969]
+140746 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'mindurunvoiced', 'VP')
+[0.7002183406113537, 0.3231292517006803, 0.07486209613869188]
+140781 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7034934497816594, 0.3559870550161812, 0.08668242710795902]
+140782 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'UVU')
+[0.7021834061135371, 0.35384615384615387, 0.09062253743104808]
+140809 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UVU')
+[0.7006550218340611, 0.32653061224489793, 0.07565011820330969]
+140811 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UP')
+[0.7004366812227074, 0.2964426877470356, 0.0591016548463357]
+140845 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced')
+[0.7008733624454149, 0.34365325077399383, 0.08747044917257683]
+140873 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced')
+[0.7008733624454149, 0.3333333333333333, 0.07959022852639874]
+140880 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7006550218340611, 0.3288590604026846, 0.07722616233254531]
+140910 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced', 'mindurunvoiced')
+[0.7002183406113537, 0.34523809523809523, 0.09141055949566587]
+140925 ('F0max', 'F0skew', 'F0kurt', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'mindurunvoiced')
+[0.7006550218340611, 0.3253424657534247, 0.07486209613869188]
+141278 ('F0max', 'F0skew', 'F0kurt', 'lastF0skw', 'stdEunvoiced', 'avgtiltEunvoiced', 'maxdurunvoiced', 'VP')
+[0.7008733624454149, 0.3465045592705167, 0.08983451536643026]
+141673 ('F0max', 'F0skew', 'F0kurt', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7006550218340611, 0.32167832167832167, 0.07249802994483845]
+141688 ('F0max', 'F0skew', 'F0kurt', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7008733624454149, 0.31899641577060933, 0.07013396375098503]
+141697 ('F0max', 'F0skew', 'F0kurt', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7013100436681222, 0.29959514170040485, 0.05831363278171789]
+141726 ('F0max', 'F0skew', 'F0kurt', 'lastF0skw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced')
+[0.7030567685589519, 0.35275080906148865, 0.08589440504334121]
+142171 ('F0max', 'F0skew', 'F0kurt', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'maxdurunvoiced')
+[0.7017467248908297, 0.3333333333333333, 0.0764381402679275]
+142193 ('F0max', 'F0skew', 'F0kurt', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7002183406113537, 0.3181818181818182, 0.07171000788022065]
+142247 ('F0max', 'F0skew', 'F0kurt', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7041484716157205, 0.3506944444444444, 0.07959022852639874]
+142412 ('F0max', 'F0skew', 'F0kurt', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7004366812227074, 0.3242320819112628, 0.07486209613869188]
+142703 ('F0max', 'F0skew', 'F0kurt', 'stdEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7004366812227074, 0.3242320819112628, 0.07486209613869188]
+143021 ('F0max', 'F0skew', 'F0kurt', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'VP')
+[0.7004366812227074, 0.3230240549828179, 0.07407407407407407]
+143377 ('F0max', 'F0skew', 'F0kurt', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7010917030567686, 0.3299319727891156, 0.0764381402679275]
+143391 ('F0max', 'F0skew', 'F0kurt', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7008733624454149, 0.315018315018315, 0.0677698975571316]
+143393 ('F0max', 'F0skew', 'F0kurt', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7030567685589519, 0.3229571984435798, 0.06540583136327817]
+143413 ('F0max', 'F0skew', 'F0kurt', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced', 'avgdurunvoiced')
+[0.7019650655021834, 0.3389261744966443, 0.07959022852639874]
+143441 ('F0max', 'F0skew', 'F0kurt', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7008733624454149, 0.32280701754385965, 0.07249802994483845]
+143442 ('F0max', 'F0skew', 'F0kurt', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7052401746724891, 0.3516483516483517, 0.07565011820330969]
+143444 ('F0max', 'F0skew', 'F0kurt', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7030567685589519, 0.34146341463414637, 0.07722616233254531]
+143447 ('F0max', 'F0skew', 'F0kurt', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'avgdurunvoiced', 'mindurunvoiced')
+[0.701528384279476, 0.3496932515337423, 0.08983451536643026]
+143554 ('F0max', 'F0skew', 'F0kurt', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UVU')
+[0.7004366812227074, 0.3242320819112628, 0.07486209613869188]
+143706 ('F0max', 'F0skew', 'F0kurt', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7017467248908297, 0.3388704318936877, 0.08037825059101655]
+144168 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced')
+[0.7034934497816594, 0.3333333333333333, 0.07013396375098503]
+144173 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'kurtosisEunvoiced', 'kurtosislastEunvoiced')
+[0.7026200873362446, 0.3070539419087137, 0.05831363278171789]
+144174 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgdurunvoiced')
+[0.7006550218340611, 0.30078125, 0.06067769897557131]
+144180 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced')
+[0.7024017467248909, 0.3178294573643411, 0.06461780929866036]
+144181 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced')
+[0.7010917030567686, 0.32269503546099293, 0.07171000788022065]
+144192 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced')
+[0.7002183406113537, 0.32550335570469796, 0.0764381402679275]
+144194 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7019650655021834, 0.313953488372093, 0.06382978723404255]
+144197 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'stdtiltEunvoiced', 'mindurunvoiced')
+[0.7002183406113537, 0.3, 0.061465721040189124]
+144203 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7006550218340611, 0.2857142857142857, 0.05358550039401103]
+144205 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'kurtosistiltEunvoiced', 'maxdurunvoiced')
+[0.7004366812227074, 0.3205574912891986, 0.07249802994483845]
+144219 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'stdmseEunvoiced', 'avgdurunvoiced')
+[0.7002183406113537, 0.32781456953642385, 0.07801418439716312]
+144226 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7021834061135371, 0.31800766283524906, 0.06540583136327817]
+144247 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced')
+[0.7010917030567686, 0.30916030534351147, 0.06382978723404255]
+144251 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'avgdurunvoiced')
+[0.7013100436681222, 0.30120481927710846, 0.0591016548463357]
+144253 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'mindurunvoiced')
+[0.7006550218340611, 0.2892561983471074, 0.055161544523246654]
+144260 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7008733624454149, 0.29880478087649404, 0.0591016548463357]
+144269 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'kurtosisEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7004366812227074, 0.2948207171314741, 0.05831363278171789]
+144312 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced')
+[0.7024017467248909, 0.31640625, 0.06382978723404255]
+144314 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced')
+[0.7004366812227074, 0.3205574912891986, 0.07249802994483845]
+144315 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7013100436681222, 0.2979591836734694, 0.05752561071710008]
+144317 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'maxdurunvoiced')
+[0.7030567685589519, 0.3333333333333333, 0.07171000788022065]
+144318 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'mindurunvoiced')
+[0.7013100436681222, 0.3159851301115242, 0.06698187549251379]
+144321 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'UP')
+[0.7013100436681222, 0.2979591836734694, 0.05752561071710008]
+144322 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced')
+[0.7019650655021834, 0.32857142857142857, 0.07249802994483845]
+144324 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7006550218340611, 0.3038461538461538, 0.062253743104806934]
+144326 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'maxdurunvoiced')
+[0.7043668122270742, 0.3443223443223443, 0.07407407407407407]
+144342 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'mindurunvoiced')
+[0.7019650655021834, 0.32857142857142857, 0.07249802994483845]
+144347 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7045851528384279, 0.3333333333333333, 0.06619385342789598]
+144348 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7021834061135371, 0.3045267489711934, 0.05831363278171789]
+144371 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'maxdurunvoiced')
+[0.7008733624454149, 0.3240418118466899, 0.07328605200945626]
+144379 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'maxdurunvoiced')
+[0.701528384279476, 0.322463768115942, 0.07013396375098503]
+144393 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7043668122270742, 0.3111111111111111, 0.055161544523246654]
+144422 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced')
+[0.7002183406113537, 0.30451127819548873, 0.06382978723404255]
+144428 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7002183406113537, 0.2815126050420168, 0.05279747832939322]
+144429 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.701528384279476, 0.2831858407079646, 0.0504334121355398]
+144450 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgmseEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced')
+[0.7008733624454149, 0.32764505119453924, 0.07565011820330969]
+144456 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7006550218340611, 0.3229166666666667, 0.07328605200945626]
+144498 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'mindurunvoiced')
+[0.7008733624454149, 0.29880478087649404, 0.0591016548463357]
+144508 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'lastF0skw', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UP')
+[0.7021834061135371, 0.28699551569506726, 0.0504334121355398]
+144532 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced')
+[0.7039301310043669, 0.3333333333333333, 0.06855791962174941]
+144533 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced')
+[0.7008733624454149, 0.32764505119453924, 0.07565011820330969]
+144536 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7021834061135371, 0.3076923076923077, 0.05988967691095351]
+144537 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'avgdurunvoiced')
+[0.7026200873362446, 0.3231939163498099, 0.06698187549251379]
+144541 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'VP')
+[0.7013100436681222, 0.3225806451612903, 0.07092198581560284]
+144542 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'UP')
+[0.7021834061135371, 0.3193916349809886, 0.06619385342789598]
+144545 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced')
+[0.7013100436681222, 0.3238434163701068, 0.07171000788022065]
+144546 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7017467248908297, 0.3004115226337449, 0.05752561071710008]
+144547 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'avgdurunvoiced')
+[0.7008733624454149, 0.30039525691699603, 0.05988967691095351]
+144548 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'maxdurunvoiced')
+[0.7004366812227074, 0.3041825095057034, 0.06304176516942474]
+144551 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'VP')
+[0.7006550218340611, 0.3082706766917293, 0.06461780929866036]
+144555 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7013100436681222, 0.2911392405063291, 0.054373522458628844]
+144557 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'kurtosistiltEunvoiced', 'maxdurunvoiced')
+[0.7024017467248909, 0.3178294573643411, 0.06461780929866036]
+144577 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7021834061135371, 0.2943722943722944, 0.05358550039401103]
+144578 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.701528384279476, 0.304, 0.05988967691095351]
+144581 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7032751091703057, 0.3140495867768595, 0.05988967691095351]
+144582 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.701528384279476, 0.29411764705882354, 0.055161544523246654]
+144588 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosisEunvoiced', 'maxdurunvoiced', 'mindurunvoiced')
+[0.7002183406113537, 0.3088235294117647, 0.06619385342789598]
+144600 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced')
+[0.7017467248908297, 0.33559322033898303, 0.07801418439716312]
+144601 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7013100436681222, 0.311787072243346, 0.06461780929866036]
+144604 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'mindurunvoiced')
+[0.7030567685589519, 0.3436426116838488, 0.07880220646178093]
+144610 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7026200873362446, 0.31620553359683795, 0.06304176516942474]
+144612 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'maxdurunvoiced')
+[0.7002183406113537, 0.32666666666666666, 0.07722616233254531]
+144618 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7017467248908297, 0.3274021352313167, 0.07249802994483845]
+144625 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7045851528384279, 0.34558823529411764, 0.07407407407407407]
+144626 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'avgdurunvoiced')
+[0.7019650655021834, 0.34, 0.08037825059101655]
+144633 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7008733624454149, 0.3311036789297659, 0.07801418439716312]
+144634 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7002183406113537, 0.3142857142857143, 0.06934594168636722]
+144636 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7039301310043669, 0.3494809688581315, 0.07959022852639874]
+144645 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'maxdurunvoiced', 'VP')
+[0.7004366812227074, 0.3385579937304075, 0.0851063829787234]
+144650 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'avgtiltEunvoiced', 'UVU', 'VP')
+[0.7002183406113537, 0.3333333333333333, 0.08195429472025216]
+144655 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7013100436681222, 0.311787072243346, 0.06461780929866036]
+144662 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced')
+[0.7006550218340611, 0.33112582781456956, 0.07880220646178093]
+144670 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7024017467248909, 0.3284671532846715, 0.07092198581560284]
+144675 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'VP')
+[0.7041484716157205, 0.3464285714285714, 0.0764381402679275]
+144677 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7021834061135371, 0.31225296442687744, 0.062253743104806934]
+144678 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7043668122270742, 0.3487544483985765, 0.07722616233254531]
+144679 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7028384279475982, 0.316, 0.062253743104806934]
+144681 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7028384279475982, 0.3283582089552239, 0.06934594168636722]
+144682 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7019650655021834, 0.3153846153846154, 0.06461780929866036]
+144688 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'stdtiltEunvoiced', 'maxdurunvoiced', 'mindurunvoiced')
+[0.7002183406113537, 0.3129496402877698, 0.06855791962174941]
+144702 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'mindurunvoiced')
+[0.7006550218340611, 0.33860759493670883, 0.08431836091410559]
+144706 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7030567685589519, 0.3295880149812734, 0.06934594168636722]
+144708 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced')
+[0.7008733624454149, 0.32996632996632996, 0.07722616233254531]
+144713 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7032751091703057, 0.32, 0.06304176516942474]
+144714 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7019650655021834, 0.32978723404255317, 0.07328605200945626]
+144762 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7013100436681222, 0.3238434163701068, 0.07171000788022065]
+144763 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.701528384279476, 0.33557046979865773, 0.07880220646178093]
+144766 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.701528384279476, 0.3274647887323944, 0.07328605200945626]
+144787 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'UP')
+[0.701528384279476, 0.30859375, 0.062253743104806934]
+144788 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'mindurunvoiced')
+[0.7041484716157205, 0.31932773109243695, 0.05988967691095351]
+144789 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UVU')
+[0.7019650655021834, 0.3431372549019608, 0.08274231678486997]
+144790 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'VP')
+[0.7052401746724891, 0.35379061371841153, 0.07722616233254531]
+144791 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UP')
+[0.701528384279476, 0.31985294117647056, 0.06855791962174941]
+144792 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UVU')
+[0.7024017467248909, 0.33214285714285713, 0.07328605200945626]
+144793 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'VP')
+[0.7017467248908297, 0.32616487455197135, 0.07171000788022065]
+144794 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UP')
+[0.7019650655021834, 0.3248175182481752, 0.07013396375098503]
+144796 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'UVU', 'UP')
+[0.701528384279476, 0.3237410071942446, 0.07092198581560284]
+144797 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'VP', 'UP')
+[0.7010917030567686, 0.3148148148148148, 0.06698187549251379]
+144801 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced', 'UP')
+[0.7010917030567686, 0.33221476510067116, 0.07801418439716312]
+144819 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced')
+[0.7043668122270742, 0.33962264150943394, 0.07092198581560284]
+144820 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced')
+[0.701528384279476, 0.3055555555555556, 0.06067769897557131]
+144821 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7056768558951965, 0.3360995850622407, 0.06382978723404255]
+144822 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgdurunvoiced')
+[0.7002183406113537, 0.3, 0.061465721040189124]
+144823 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'maxdurunvoiced')
+[0.7010917030567686, 0.32014388489208634, 0.07013396375098503]
+144824 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'mindurunvoiced')
+[0.7017467248908297, 0.30522088353413657, 0.05988967691095351]
+144826 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'VP')
+[0.7030567685589519, 0.3112033195020747, 0.0591016548463357]
+144827 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'UP')
+[0.7017467248908297, 0.29707112970711297, 0.05594956658786446]
+144828 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced')
+[0.7004366812227074, 0.30996309963099633, 0.06619385342789598]
+144832 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'maxdurunvoiced')
+[0.7017467248908297, 0.3169811320754717, 0.06619385342789598]
+144839 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'avgmseEunvoiced', 'avgdurunvoiced')
+[0.7013100436681222, 0.3159851301115242, 0.06698187549251379]
+144852 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7002183406113537, 0.2903225806451613, 0.05673758865248227]
+144856 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7006550218340611, 0.30078125, 0.06067769897557131]
+144873 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced')
+[0.7002183406113537, 0.3115942028985507, 0.0677698975571316]
+144898 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7010917030567686, 0.3031496062992126, 0.06067769897557131]
+144899 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7004366812227074, 0.29961089494163423, 0.06067769897557131]
+144901 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7045851528384279, 0.3333333333333333, 0.06619385342789598]
+144903 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced')
+[0.7004366812227074, 0.30996309963099633, 0.06619385342789598]
+144904 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'avgdurunvoiced', 'mindurunvoiced')
+[0.7004366812227074, 0.2980392156862745, 0.05988967691095351]
+144907 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7006550218340611, 0.2892561983471074, 0.055161544523246654]
+144908 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'stdtiltEunvoiced', 'maxdurunvoiced', 'mindurunvoiced')
+[0.7010917030567686, 0.3062015503875969, 0.062253743104806934]
+144919 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7034934497816594, 0.3153526970954357, 0.05988967691095351]
+144920 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'avgdurunvoiced')
+[0.7013100436681222, 0.30739299610894943, 0.062253743104806934]
+144943 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'kurtosistiltEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7006550218340611, 0.2976190476190476, 0.0591016548463357]
+144961 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7010917030567686, 0.2826086956521739, 0.0512214342001576]
+144966 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7010917030567686, 0.29508196721311475, 0.05673758865248227]
+144967 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'avgmseEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced')
+[0.701528384279476, 0.3274647887323944, 0.07328605200945626]
+144971 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'avgmseEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7002183406113537, 0.3, 0.061465721040189124]
+145006 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'VP')
+[0.7024017467248909, 0.29914529914529914, 0.055161544523246654]
+145010 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'VP')
+[0.7006550218340611, 0.3068181818181818, 0.06382978723404255]
+145013 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'VP')
+[0.7008733624454149, 0.2869198312236287, 0.05358550039401103]
+145015 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'kurtosislastEunvoiced', 'UVU', 'VP')
+[0.7010917030567686, 0.3031496062992126, 0.06067769897557131]
+145021 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosisEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced', 'UP')
+[0.7006550218340611, 0.2857142857142857, 0.05358550039401103]
+145038 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced')
+[0.7017467248908297, 0.3286219081272085, 0.07328605200945626]
+145040 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7067685589519651, 0.352, 0.06934594168636722]
+145043 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'mindurunvoiced')
+[0.7021834061135371, 0.3344947735191638, 0.07565011820330969]
+145044 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'UVU')
+[0.7002183406113537, 0.32894736842105265, 0.07880220646178093]
+145046 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'UP')
+[0.7026200873362446, 0.3333333333333333, 0.07328605200945626]
+145048 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7043668122270742, 0.3420074349442379, 0.07249802994483845]
+145050 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'maxdurunvoiced')
+[0.7002183406113537, 0.32550335570469796, 0.0764381402679275]
+145051 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'mindurunvoiced')
+[0.7030567685589519, 0.33807829181494664, 0.07486209613869188]
+145053 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'VP')
+[0.7037117903930131, 0.34285714285714286, 0.07565011820330969]
+145054 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'UP')
+[0.7021834061135371, 0.32075471698113206, 0.06698187549251379]
+145055 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7028384279475982, 0.33088235294117646, 0.07092198581560284]
+145057 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced')
+[0.7056768558951965, 0.36610169491525424, 0.0851063829787234]
+145061 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'UP')
+[0.7021834061135371, 0.32974910394265233, 0.07249802994483845]
+145062 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7002183406113537, 0.29365079365079366, 0.05831363278171789]
+145064 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7048034934497817, 0.33725490196078434, 0.0677698975571316]
+145065 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'UVU')
+[0.7004366812227074, 0.3205574912891986, 0.07249802994483845]
+145066 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7008733624454149, 0.31086142322097376, 0.06540583136327817]
+145067 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7026200873362446, 0.3117408906882591, 0.06067769897557131]
+145068 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced')
+[0.7004366812227074, 0.33003300330033003, 0.07880220646178093]
+145073 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'maxdurunvoiced', 'mindurunvoiced')
+[0.7067685589519651, 0.35546875, 0.07171000788022065]
+145076 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7006550218340611, 0.3082706766917293, 0.06461780929866036]
+145078 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'mindurunvoiced', 'VP')
+[0.7028384279475982, 0.3466666666666667, 0.08195429472025216]
+145079 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'mindurunvoiced', 'UP')
+[0.7017467248908297, 0.31417624521072796, 0.06461780929866036]
+145083 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced')
+[0.7019650655021834, 0.34516129032258064, 0.08431836091410559]
+145084 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7006550218340611, 0.3111111111111111, 0.06619385342789598]
+145090 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'UP')
+[0.7010917030567686, 0.323943661971831, 0.07249802994483845]
+145093 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced')
+[0.7006550218340611, 0.33548387096774196, 0.08195429472025216]
+145102 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7017467248908297, 0.30980392156862746, 0.062253743104806934]
+145115 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'mindurunvoiced', 'UP')
+[0.7004366812227074, 0.33114754098360655, 0.07959022852639874]
+145130 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7037117903930131, 0.34285714285714286, 0.07565011820330969]
+145131 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7030567685589519, 0.33454545454545453, 0.07249802994483845]
+145147 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7041484716157205, 0.34532374100719426, 0.07565011820330969]
+145148 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7050218340611354, 0.35563380281690143, 0.07959022852639874]
+145151 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7028384279475982, 0.3413793103448276, 0.07801418439716312]
+145173 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'mindurunvoiced')
+[0.7032751091703057, 0.3333333333333333, 0.07092198581560284]
+145175 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'VP')
+[0.7017467248908297, 0.3155893536121673, 0.06540583136327817]
+145179 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UP')
+[0.7045851528384279, 0.33064516129032256, 0.06461780929866036]
+145180 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'UVU', 'VP')
+[0.7013100436681222, 0.3250883392226148, 0.07249802994483845]
+145181 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgtiltEunvoiced', 'kurtosislastEunvoiced', 'UVU', 'UP')
+[0.7013100436681222, 0.32, 0.06934594168636722]
+145204 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7030567685589519, 0.3269961977186312, 0.0677698975571316]
+145206 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'maxdurunvoiced')
+[0.7006550218340611, 0.3277027027027027, 0.0764381402679275]
+145211 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7032751091703057, 0.332089552238806, 0.07013396375098503]
+145220 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7026200873362446, 0.31020408163265306, 0.05988967691095351]
+145223 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7045851528384279, 0.3372093023255814, 0.06855791962174941]
+145239 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7004366812227074, 0.3154121863799283, 0.06934594168636722]
+145247 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7008733624454149, 0.315018315018315, 0.0677698975571316]
+145250 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7004366812227074, 0.3154121863799283, 0.06934594168636722]
+145251 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7039301310043669, 0.33073929961089493, 0.06698187549251379]
+145257 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'maxdurunvoiced', 'mindurunvoiced')
+[0.7013100436681222, 0.3333333333333333, 0.07801418439716312]
+145262 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'mindurunvoiced', 'VP')
+[0.7004366812227074, 0.3242320819112628, 0.07486209613869188]
+145268 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7019650655021834, 0.32978723404255317, 0.07328605200945626]
+145269 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7032751091703057, 0.3282442748091603, 0.0677698975571316]
+145278 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced', 'mindurunvoiced')
+[0.7013100436681222, 0.33876221498371334, 0.08195429472025216]
+145280 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'maxdurunvoiced', 'VP')
+[0.7037117903930131, 0.35714285714285715, 0.08668242710795902]
+145283 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'mindurunvoiced', 'VP')
+[0.7002183406113537, 0.3194444444444444, 0.07249802994483845]
+145290 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'UVU')
+[0.7004366812227074, 0.31272727272727274, 0.0677698975571316]
+145292 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7008733624454149, 0.30196078431372547, 0.06067769897557131]
+145293 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'mindurunvoiced')
+[0.7043668122270742, 0.32510288065843623, 0.062253743104806934]
+145294 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UVU')
+[0.701528384279476, 0.3321917808219178, 0.0764381402679275]
+145295 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'VP')
+[0.7028384279475982, 0.3333333333333333, 0.07249802994483845]
+145296 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UP')
+[0.7028384279475982, 0.32706766917293234, 0.06855791962174941]
+145298 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'VP')
+[0.7032751091703057, 0.3140495867768595, 0.05988967691095351]
+145299 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'UP')
+[0.7026200873362446, 0.31020408163265306, 0.05988967691095351]
+145315 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdtiltEunvoiced', 'maxdurunvoiced', 'mindurunvoiced', 'UP')
+[0.7021834061135371, 0.32974910394265233, 0.07249802994483845]
+145377 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'mindurunvoiced')
+[0.7026200873362446, 0.3132530120481928, 0.061465721040189124]
+145430 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'UVU')
+[0.7021834061135371, 0.326007326007326, 0.07013396375098503]
+145440 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'UVU', 'VP')
+[0.7004366812227074, 0.3289036544850498, 0.07801418439716312]
+145468 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'mindurunvoiced')
+[0.7006550218340611, 0.31521739130434784, 0.06855791962174941]
+145469 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'UVU')
+[0.7021834061135371, 0.3333333333333333, 0.07486209613869188]
+145473 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced', 'VP')
+[0.7002183406113537, 0.3074074074074074, 0.06540583136327817]
+145501 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced', 'UP')
+[0.7019650655021834, 0.3153846153846154, 0.06461780929866036]
+145508 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'mindurunvoiced', 'UVU')
+[0.7008733624454149, 0.3202846975088968, 0.07092198581560284]
+145510 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'mindurunvoiced', 'UP')
+[0.7006550218340611, 0.3191489361702128, 0.07092198581560284]
+145513 ('F0max', 'F0skew', 'F0tiltmax', 'F0tiltskw', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'VP', 'UP')
+[0.7013100436681222, 0.32989690721649484, 0.07565011820330969]
+145533 ('F0max', 'F0skew', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced')
+[0.7010917030567686, 0.30916030534351147, 0.06382978723404255]
+145542 ('F0max', 'F0skew', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgtiltEunvoiced', 'VP')
+[0.7004366812227074, 0.3277591973244147, 0.07722616233254531]
+145584 ('F0max', 'F0skew', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced')
+[0.7006550218340611, 0.31785714285714284, 0.07013396375098503]
+145588 ('F0max', 'F0skew', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'kurtosisEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7002183406113537, 0.2903225806451613, 0.05673758865248227]
+145602 ('F0max', 'F0skew', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7006550218340611, 0.2992125984251969, 0.05988967691095351]
+145678 ('F0max', 'F0skew', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7006550218340611, 0.3023255813953488, 0.061465721040189124]
+145763 ('F0max', 'F0skew', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced')
+[0.7034934497816594, 0.3168724279835391, 0.06067769897557131]
+145768 ('F0max', 'F0skew', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7010917030567686, 0.3031496062992126, 0.06067769897557131]
+145786 ('F0max', 'F0skew', 'F0tiltmax', 'lastF0skw', 'stdEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'UVU')
+[0.701528384279476, 0.31985294117647056, 0.06855791962174941]
+146041 ('F0max', 'F0skew', 'F0tiltmax', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced')
+[0.7030567685589519, 0.3080168776371308, 0.05752561071710008]
+146056 ('F0max', 'F0skew', 'F0tiltmax', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced')
+[0.701528384279476, 0.30708661417322836, 0.061465721040189124]
+146064 ('F0max', 'F0skew', 'F0tiltmax', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7002183406113537, 0.3074074074074074, 0.06540583136327817]
+146067 ('F0max', 'F0skew', 'F0tiltmax', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'VP')
+[0.7021834061135371, 0.3193916349809886, 0.06619385342789598]
+146069 ('F0max', 'F0skew', 'F0tiltmax', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced')
+[0.7019650655021834, 0.32978723404255317, 0.07328605200945626]
+146074 ('F0max', 'F0skew', 'F0tiltmax', 'lastF0skw', 'avgtiltEunvoiced', 'stdtiltEunvoiced', 'maxdurunvoiced', 'mindurunvoiced')
+[0.7002183406113537, 0.30451127819548873, 0.06382978723404255]
+146085 ('F0max', 'F0skew', 'F0tiltmax', 'lastF0skw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced')
+[0.7021834061135371, 0.3092369477911647, 0.06067769897557131]
+146100 ('F0max', 'F0skew', 'F0tiltmax', 'lastF0skw', 'avgtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced')
+[0.7032751091703057, 0.32, 0.06304176516942474]
+146153 ('F0max', 'F0skew', 'F0tiltmax', 'lastF0skw', 'avgtiltEunvoiced', 'stdmseEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7002183406113537, 0.30451127819548873, 0.06382978723404255]
+146221 ('F0max', 'F0skew', 'F0tiltmax', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'mindurunvoiced')
+[0.7004366812227074, 0.2964426877470356, 0.0591016548463357]
+146252 ('F0max', 'F0skew', 'F0tiltmax', 'lastF0skw', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'kurtosislastEunvoiced', 'UP')
+[0.7008733624454149, 0.29554655870445345, 0.05752561071710008]
+146259 ('F0max', 'F0skew', 'F0tiltmax', 'lastF0skw', 'stdtiltEunvoiced', 'avgmseEunvoiced', 'maxdurunvoiced', 'UVU')
+[0.7008733624454149, 0.32764505119453924, 0.07565011820330969]
+146294 ('F0max', 'F0skew', 'F0tiltmax', 'lastF0skw', 'stdtiltEunvoiced', 'kurtosislastEunvoiced', 'maxdurunvoiced', 'mindurunvoiced')
+[0.7008733624454149, 0.30196078431372547, 0.06067769897557131]
+146373 ('F0max', 'F0skew', 'F0tiltmax', 'lastF0skw', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'maxdurunvoiced')
+[0.7004366812227074, 0.2948207171314741, 0.05831363278171789]
+146377 ('F0max', 'F0skew', 'F0tiltmax', 'lastF0skw', 'kurtosistiltEunvoiced', 'kurtosislastEunvoiced', 'avgdurunvoiced', 'UP')
+[0.7004366812227074, 0.30711610486891383, 0.06461780929866036]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
